@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Mis Juegos de Mesa</h1>
+
+<article class="filters">
+    <label for="list-of-players"># de jugadores:</label>
+    <select id="list-of-players" onchange="change_selected_players()">
+        <option value="0">*</option>
+        <option value="1">1 jugador</option>
+        <option value="2">2 jugadores</option>
+        <option value="3">3 jugadores</option>
+        <option value="4">4 jugadores</option>
+        <option value="5">5 jugadores</option>
+        <option value="6">6 jugadores</option>
+        <option value="7">7 jugadores</option>
+        <option value="8">8 jugadores</option>
+        <option value="9">9 jugadores</option>
+    </select>
+</article>
+
+<article class="games">
+
+    <div id="game-list">
+    </div>
+
+</article>
+
+<script src="script.js"></script>
+
+
+</body>
+</html>

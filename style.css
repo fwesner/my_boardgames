@@ -1,0 +1,112 @@
+.filters {
+    font-size:16px; 
+    color: #ffffff;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+select {  
+    background-color: rgb(65, 107, 107);
+    border-radius:2px;
+    border:none;
+    padding: 10px 10px 10px 10px;
+    font-size: 16px; 
+    color: #ffffff;
+}
+
+h1 {
+    position:relative; 
+    color: honeydew;
+    font-size:28px; 
+    font-weight:700; 
+    letter-spacing:0px; 
+    text-transform:uppercase; 
+    width:300px; 
+    text-align:center; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    white-space:nowrap; 
+    border:2px solid honeydew;
+    padding:5px 11px 3px 11px;
+}
+h1:before, h1:after {
+    background-color: #c50000;
+    position:absolute; 
+    content: '';
+    height: 7px;
+    width: 7px; 
+    border-radius:50%;
+    bottom: 12px;
+}
+h1:before {
+    left:-20px;
+}
+h1:after {
+    right:-20px;
+}
+
+#list-of-players {
+    margin: auto;
+}
+
+body {
+    background-color:darkslategray;
+    max-width: 1600px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#game-list {
+    border: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.game-item {
+    border: none;
+    display: flex;
+    flex-direction: row;
+    width: 25%;
+    min-width: 300px;
+    padding: 2%;
+    border-radius: 10px;
+    margin: 2%;
+    background-color: honeydew;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+
+.suggestion-best {
+    background-color:lightgreen;
+}
+
+.suggestion-recommended {
+    background-color:lightgoldenrodyellow;
+}
+
+.suggestion-not-recommended {
+    background-color:lightcoral;
+}
+
+.game-info {
+    padding : 5px 10px 5px 10px ;
+    font-size: 14px;
+    text-align: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+}
+
+li {
+    display: inline;
+}
+
