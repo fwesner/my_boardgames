@@ -1,6 +1,114 @@
 
+var players = 0;
+var gameList = [];
+load_games();
 
 
+function load_games() {
+    fetch("https://boardgamegeek.com/xmlapi2/collection?username=wesnet")
+    .then(response => response.text())
+    .then((data) => {
+        let parser = new DOMParser(), 
+        xml = parser.parseFromString(data, "text/xml"); 
+        
+        games = xml.getElementsByTagName("item")
+        var gameIDs = [];
+        for(var i =0; i< games.length; i++) {
+            var game = games[i];
+            if (game.getElementsByTagName("status")[0].getAttribute("own") == 1) {
+                gameIDs.push(game.getAttribute("objectid"));
+            }
+        }
+        return gameIDs;
+    }).then( (gameIDs) => {
+        load_games_info(gameIDs);
+    });
+}
+
+function load_games_info(gameIDs) {
+    var games = [];
+    var promises = [];
+    for(var i =0; i<gameIDs.length; i++) {
+
+        const promise = fetch("https://boardgamegeek.com/xmlapi2/thing?id="+gameIDs[i])
+        .then(response => response.text())
+        .then((data) => {
+
+            let parser = new DOMParser(), 
+            xml = parser.parseFromString(data, "text/xml");
+
+            players_votes = new Object();
+            minPlayers= parseInt(xml.getElementsByTagName("minplayers")[0].getAttribute("value"));
+            maxPlayers= parseInt(xml.getElementsByTagName("maxplayers")[0].getAttribute("value"));
+            
+            var suggested_numplayers = xml.getElementsByName("suggested_numplayers")[0].children;
+            for(var p = 0; p < suggested_numplayers.length; p++) {
+                var suggestion = "Not Playable";
+                var numplayers = parseInt(suggested_numplayers[p].getAttribute("numplayers"));
+                if (numplayers < minPlayers) {
+                    suggestion = "Not Playable";
+                } else { 
+                    if (numplayers <= maxPlayers) {
+                        best_fit = Array.from(suggested_numplayers[p].children).reduce(calc_suggested_numplayers);
+                        suggestion = best_fit.getAttribute("value"); 
+                    }
+                    if (numplayers == players) {
+                        suggestion = best_fit.getAttribute("value"); 
+                    }
+                }
+                players_votes[numplayers] = suggestion;
+                if (numplayers >= maxPlayers) {
+                    break;
+                }
+                
+            }
+
+            const game = {
+                gameID: xml.getElementsByTagName("item")[0].getAttribute("id"),
+                name: xml.getElementsByTagName("name")[0].getAttribute("value"),
+                minPlayers: parseInt(xml.getElementsByTagName("minplayers")[0].getAttribute("value")),
+                maxPlayers: parseInt(xml.getElementsByTagName("maxplayers")[0].getAttribute("value")),
+                imgUrl: xml.getElementsByTagName("image")[0].innerHTML,
+                suggested_numplayers: players_votes
+            };
+            gameList.push(game);
+        });
+        promises.push(promise);
+    }
+    Promise.all(promises).then( () => {
+        
+        load_html();
+    });
+}
+
+function load_html() {
+    for(var i =0; i<gameList.length; i++) {
+
+        var numPlayersDiv = '';
+        for(var p = 1; p <= Object.keys(gameList[i]["suggested_numplayers"]).length; p++) {
+            numPlayersDiv += '<li>' + image_players(gameList[i]["suggested_numplayers"][p]) + '</li>';
+        }
+        
+        if (players == 0 || gameList[i]["suggested_numplayers"][players] != "Not playable") {
+            var div = document.createElement('div');
+            if(players > 0 && players <= Object.keys(gameList[i]["suggested_numplayers"]).length) {
+                div.classList.add('game-item', "suggestion-"+ gameList[i]["suggested_numplayers"][players].toLowerCase().replace(' ','-'));
+            } else {
+                div.classList.add('game-item');
+            }
+            div.innerHTML = `
+                <a href="https://boardgamegeek.com/boardgame/${gameList[i]["gameID"]}"><img class="game-img" src=${gameList[i]["imgUrl"]} width = 150px height=150px object-fit: fill></a>
+                <div class="game-info">
+                    <h2>${gameList[i]["name"]}</h2>
+                    <ul>
+                        ${numPlayersDiv}
+                    </ul>
+                </div>
+            `;
+            document.getElementById('game-list').appendChild(div);
+        }
+    }   
+}
 
 function calc_suggested_numplayers (best, currentValue) {
     if (parseInt(currentValue.getAttribute("numvotes")) >= parseInt(best.getAttribute("numvotes"))) {
@@ -25,85 +133,7 @@ function image_players(value) {
 }
 
 function change_selected_players() {
-    var players = parseInt(document.getElementById("list-of-players").value);
+    players = parseInt(document.getElementById("list-of-players").value);
     document.getElementById('game-list').innerHTML = '';
-    load_games(players);
+    load_html();
 }
-
-function load_games(players) {
-    fetch("https://boardgamegeek.com/xmlapi2/collection?username=wesnet")
-    .then(response => response.text())
-    .then((data) => {
-        let parser = new DOMParser(), 
-        xml = parser.parseFromString(data, "text/xml"); 
-        
-        games = xml.getElementsByTagName("item")
-        var gameIDs = [];
-        for(var i =0; i< games.length; i++) {
-            var game = games[i];
-            if (game.getElementsByTagName("status")[0].getAttribute("own") == 1) {
-                gameIDs.push(game.getAttribute("objectid"));
-            }
-        }
-
-        for(var i =0; i< gameIDs.length; i++) {
-            var id = gameIDs[i];
-
-            fetch("https://boardgamegeek.com/xmlapi2/thing?id="+id)
-            .then(response => response.text())
-            .then((data) => {
-
-                xml = parser.parseFromString(data, "text/xml"); 
-                var gameID = xml.getElementsByTagName("item")[0].getAttribute("id");
-                var name = xml.getElementsByTagName("name")[0].getAttribute("value");
-                var minPlayers = parseInt(xml.getElementsByTagName("minplayers")[0].getAttribute("value"));
-                var maxPlayers = parseInt(xml.getElementsByTagName("maxplayers")[0].getAttribute("value"));
-                var imgUrl = xml.getElementsByTagName("image")[0].innerHTML;
-
-                //players
-                var suggestion = "Not Playable";
-                var numPlayersDiv = ''
-                var suggested_numplayers = xml.getElementsByName("suggested_numplayers")[0].children;
-                for(var p = 0; p < suggested_numplayers.length; p++) {
-                    var numplayers = parseInt(suggested_numplayers[p].getAttribute("numplayers"));
-                    if (numplayers < minPlayers) {
-                        numPlayersDiv += '<li>' + image_players("Not playable") + '</li>';
-                    } else { 
-                        if (numplayers <= maxPlayers) {
-                            best_fit = Array.from(suggested_numplayers[p].children).reduce(calc_suggested_numplayers);
-                            numPlayersDiv += '<li>' + image_players(best_fit.getAttribute("value")) + '</li>'; 
-                        }
-                        if (numplayers == players) {
-                            suggestion = best_fit.getAttribute("value"); 
-                        }
-                    }
-
-                    
-
-                    if (numplayers == maxPlayers) {
-                        break;
-                    }
-                }
-                
-                if (suggestion != "Not Playable" || players == 0) {
-                    var div = document.createElement('div');
-                    div.classList.add('game-item', "suggestion-"+ suggestion.toLowerCase().replace(' ','-'));
-                    div.innerHTML = `
-                        <a href="https://boardgamegeek.com/boardgame/${gameID}"><img class="game-img" src=${imgUrl} width = 150px height=150px object-fit: fill></a>
-                        <div class="game-info">
-                            <h2>${name}</h2>
-                            <ul>
-                                ${numPlayersDiv}
-                            </ul>
-                        </div>
-                    `;
-                    document.getElementById('game-list').appendChild(div);
-                }
-
-            });
-        }
-    });
-}
-
-
-load_games(0);
