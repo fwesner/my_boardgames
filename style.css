@@ -22,7 +22,7 @@ h1 {
     font-weight:700; 
     letter-spacing:0px; 
     text-transform:uppercase; 
-    width:300px; 
+    width:400px; 
     text-align:center; 
     margin-top: 20px;
     margin-bottom: 20px;
@@ -110,3 +110,30 @@ li {
     display: inline;
 }
 
+
+
+@media screen and (max-width: 1000px) {
+    .game-item {
+      width: 80%;
+    }
+
+    select, label {  
+        font-size: 32px; 
+    }
+
+    .game-info {
+        margin-left: 30px;
+        font-size: 24px;
+        text-align: left;
+    }
+
+    .game-player-img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .game-img {
+        width: 250px;
+        height: 250px;
+    }
+  }

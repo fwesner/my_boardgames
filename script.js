@@ -28,6 +28,8 @@ function load_games() {
 function load_games_info(gameIDs) {
     var games = [];
     var promises = [];
+    
+    console.log("RELOAD LIST");
     for(var i =0; i<gameIDs.length; i++) {
 
         const promise = fetch("https://boardgamegeek.com/xmlapi2/thing?id="+gameIDs[i])
@@ -121,13 +123,13 @@ function calc_suggested_numplayers (best, currentValue) {
 function image_players(value) {
     switch (value) {
         case 'Best':
-            return `<img class="game-img" src="verde.png" width = 20px height=20px object-fit: fill>`
+            return `<img class="game-player-img" src="verde.png" width = 20px height=20px object-fit: fill>`
         case 'Recommended':
-            return `<img class="game-img" src="amarillo.png" width = 20px height=20px object-fit: fill>`
+            return `<img class="game-player-img" src="amarillo.png" width = 20px height=20px object-fit: fill>`
         case 'Not Recommended':
-            return `<img class="game-img" src="rojo.png" width = 20px height=20px object-fit: fill>`
+            return `<img class="game-player-img" src="rojo.png" width = 20px height=20px object-fit: fill>`
         default:
-            return `<img class="game-img" src="gris.png" width = 20px height=20px object-fit: fill>`
+            return `<img class="game-player-img" src="gris.png" width = 20px height=20px object-fit: fill>`
     }
 
 }
