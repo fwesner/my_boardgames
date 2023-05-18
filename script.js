@@ -78,7 +78,6 @@ function load_games_info(gameIDs) {
         promises.push(promise);
     }
     Promise.all(promises).then( () => {
-        
         load_html();
     });
 }
@@ -86,12 +85,14 @@ function load_games_info(gameIDs) {
 function load_html() {
     for(var i =0; i<gameList.length; i++) {
 
-        var numPlayersDiv = '';
-        for(var p = 1; p <= Object.keys(gameList[i]["suggested_numplayers"]).length; p++) {
-            numPlayersDiv += '<li>' + image_players(gameList[i]["suggested_numplayers"][p]) + '</li>';
-        }
+        console.log(gameList[i]);
+        if (players == 0 || get_recommendation_for(gameList[i], players) != "Not Playable") {
+            
+            var numPlayersDiv = '';
+            for(var p = 1; p <= Object.keys(gameList[i]["suggested_numplayers"]).length; p++) {
+                numPlayersDiv += '<li>' + image_players(gameList[i], p) + '</li>';
+            }
         
-        if (players == 0 || gameList[i]["suggested_numplayers"][players] != "Not playable") {
             var div = document.createElement('div');
             if(players > 0 && players <= Object.keys(gameList[i]["suggested_numplayers"]).length) {
                 div.classList.add('game-item', "suggestion-"+ gameList[i]["suggested_numplayers"][players].toLowerCase().replace(' ','-'));
@@ -120,7 +121,8 @@ function calc_suggested_numplayers (best, currentValue) {
     }
 }
 
-function image_players(value) {
+function image_players(game, p) {
+    const value = get_recommendation_for(game, p);
     switch (value) {
         case 'Best':
             return `<img class="game-player-img" src="verde.png" width = 20px height=20px object-fit: fill>`
@@ -138,4 +140,12 @@ function change_selected_players() {
     players = parseInt(document.getElementById("list-of-players").value);
     document.getElementById('game-list').innerHTML = '';
     load_html();
+}
+
+function get_recommendation_for(game, p) {
+    if (p in game["suggested_numplayers"]) {
+        return game["suggested_numplayers"][p];
+    } else {
+        return "Not Playable";
+    }
 }
