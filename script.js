@@ -32,7 +32,7 @@ function load_games_info(gameIDs) {
     console.log("RELOAD LIST");
     for(var i =0; i<gameIDs.length; i++) {
 
-        const promise = fetch("https://boardgamegeek.com/xmlapi2/thing?id="+gameIDs[i])
+        const promise = fetch("https://boardgamegeek.com/xmlapi2/thing?id="+gameIDs[i]+"&stats=1")
         .then(response => response.text())
         .then((data) => {
 
@@ -70,6 +70,7 @@ function load_games_info(gameIDs) {
                 name: xml.getElementsByTagName("name")[0].getAttribute("value"),
                 minPlayers: parseInt(xml.getElementsByTagName("minplayers")[0].getAttribute("value")),
                 maxPlayers: parseInt(xml.getElementsByTagName("maxplayers")[0].getAttribute("value")),
+                averageweight: parseFloat(xml.getElementsByTagName("averageweight")[0].getAttribute("value")),
                 imgUrl: xml.getElementsByTagName("image")[0].innerHTML,
                 suggested_numplayers: players_votes
             };
@@ -85,7 +86,6 @@ function load_games_info(gameIDs) {
 function load_html() {
     for(var i =0; i<gameList.length; i++) {
 
-        console.log(gameList[i]);
         if (players == 0 || get_recommendation_for(gameList[i], players) != "Not Playable") {
             
             var numPlayersDiv = '';
@@ -102,10 +102,13 @@ function load_html() {
             div.innerHTML = `
                 <a href="https://boardgamegeek.com/boardgame/${gameList[i]["gameID"]}"><img class="game-img" src=${gameList[i]["imgUrl"]} width = 150px height=150px object-fit: fill></a>
                 <div class="game-info">
-                    <h2>${gameList[i]["name"]}</h2>
+                    <h3>${gameList[i]["name"]}</h3>
                     <ul>
                         ${numPlayersDiv}
                     </ul>
+                    <div class="averageweight-bar">
+                        <span class="${color_weight(gameList[i]["averageweight"])}" style="--weight: ${gameList[i]["averageweight"]*100/5}%;">${gameList[i]["averageweight"].toFixed(2)}</span>
+                    </div>
                 </div>
             `;
             document.getElementById('game-list').appendChild(div);
@@ -134,6 +137,13 @@ function image_players(game, p) {
             return `<img class="game-player-img" src="gris.png" width = 20px height=20px object-fit: fill>`
     }
 
+}
+
+function color_weight(weight) {
+    if (weight < 2.5) { return "weight-green"};
+    if (weight < 3.0) { return "weight-yellow"};
+    if (weight < 3.5) { return "weight-orange"};
+    return "weight-red";
 }
 
 function change_selected_players() {
