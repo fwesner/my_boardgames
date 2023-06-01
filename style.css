@@ -1,13 +1,13 @@
 .filters {
     font-size:16px; 
     color: #ffffff;
-    width: 700px;
-    margin-left: auto;
-    margin-right: auto;
+    display: inline-block;
 }
 
-label {
-    padding-left: 20px;
+.filter {
+    display: inline-block;
+    padding: 20px;
+    width: fit-content;
 }
 
 select {  
@@ -162,12 +162,29 @@ li {
 
 
 @media screen and (max-width: 1000px) {
+
+    h1 {
+        font-size: 36px;
+    }
+
+    .filter {
+        margin: auto;
+    }
+
+    .filter {
+        display: block;
+    }
+
     .game-item {
       width: 80%;
     }
 
-    select, label {  
-        font-size: 32px; 
+    label {  
+        font-size: 40px; 
+    }
+
+    select {
+        font-size: 30px;
     }
 
     .game-info {
@@ -185,4 +202,12 @@ li {
         width: 250px;
         height: 250px;
     }
-  }
+
+    input[type="checkbox"] {
+        margin: 10px;
+        width: 2em;
+        height: 2em;
+        border: 0.2em;
+        border-radius: 0.2em;
+      }
+}

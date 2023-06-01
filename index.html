@@ -8,26 +8,36 @@
 <h1>Mis Juegos de Mesa</h1>
 
 <article class="filters">
-    <label for="list-of-players"># de jugadores:</label>
-    <select id="list-of-players" onchange="change_selected_players()">
-        <option value="0">*</option>
-        <option value="1">1 jugador</option>
-        <option value="2">2 jugadores</option>
-        <option value="3">3 jugadores</option>
-        <option value="4">4 jugadores</option>
-        <option value="5">5 jugadores</option>
-        <option value="6">6 jugadores</option>
-        <option value="7">7 jugadores</option>
-        <option value="8">8 jugadores</option>
-        <option value="9">9 jugadores</option>
-    </select>
-    <label for="sort-by">Ordenar por:</label>
-    <select id="sort-by" onchange="change_sort()">
-        <option value="name">Nombre</option>
-        <option value="averageweight">Peso</option>
-    </select>
-    <label for="exclude-not-recommended"> Excluir no recomendados</label>
-    <input type="checkbox" id="exclude-not-recommended" onchange="load_html()">
+    <div class="filter">
+        <label for="list-of-players"># de jugadores:</label>
+        <select id="list-of-players" onchange="change_selected_players()">
+            <option value="0">*</option>
+            <option value="1">1 jugador</option>
+            <option value="2">2 jugadores</option>
+            <option value="3">3 jugadores</option>
+            <option value="4">4 jugadores</option>
+            <option value="5">5 jugadores</option>
+            <option value="6">6 jugadores</option>
+            <option value="7">7 jugadores</option>
+            <option value="8">8 jugadores</option>
+            <option value="9">9 jugadores</option>
+        </select>
+    </div>
+    
+    <div class="filter">
+        <label for="sort-by">Ordenar por:</label>
+        <select id="sort-by" onchange="change_sort()">
+            <option value="name">Nombre</option>
+            <option value="averageweight">Peso</option>
+        </select>
+    </div>
+
+    <div class="filter">
+        <label for="exclude-not-recommended"> Excluir no recomendados</label>
+        <input type="checkbox" id="exclude-not-recommended" onchange="load_html()">
+    </div>
+    
+    
 </article>
 
 <article class="games">
