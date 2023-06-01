@@ -29,7 +29,6 @@ function load_games_info(gameIDs) {
     var games = [];
     var promises = [];
     
-    console.log("RELOAD LIST");
     for(var i =0; i<gameIDs.length; i++) {
 
         const promise = fetch("https://boardgamegeek.com/xmlapi2/thing?id="+gameIDs[i]+"&stats=1")
@@ -84,34 +83,38 @@ function load_games_info(gameIDs) {
 }
 
 function load_html() {
+    document.getElementById('game-list').innerHTML = '';
     for(var i =0; i<gameList.length; i++) {
 
         if (players == 0 || get_recommendation_for(gameList[i], players) != "Not Playable") {
+
+            if (!document.getElementById("exclude-not-recommended").checked || get_recommendation_for(gameList[i], players) != "Not Recommended") {
             
-            var numPlayersDiv = '';
-            for(var p = 1; p <= Object.keys(gameList[i]["suggested_numplayers"]).length; p++) {
-                numPlayersDiv += '<li>' + image_players(gameList[i], p) + '</li>';
-            }
-        
-            var div = document.createElement('div');
-            if(players > 0 && players <= Object.keys(gameList[i]["suggested_numplayers"]).length) {
-                div.classList.add('game-item', "suggestion-"+ gameList[i]["suggested_numplayers"][players].toLowerCase().replace(' ','-'));
-            } else {
-                div.classList.add('game-item');
-            }
-            div.innerHTML = `
-                <a href="https://boardgamegeek.com/boardgame/${gameList[i]["gameID"]}"><img class="game-img" src=${gameList[i]["imgUrl"]} width = 150px height=150px object-fit: fill></a>
-                <div class="game-info">
-                    <h3>${gameList[i]["name"]}</h3>
-                    <ul>
-                        ${numPlayersDiv}
-                    </ul>
-                    <div class="averageweight-bar">
-                        <span class="${color_weight(gameList[i]["averageweight"])}" style="--weight: ${gameList[i]["averageweight"]*100/5}%;">${gameList[i]["averageweight"].toFixed(2)}</span>
+                var numPlayersDiv = '';
+                for(var p = 1; p <= Object.keys(gameList[i]["suggested_numplayers"]).length; p++) {
+                    numPlayersDiv += '<li>' + image_players(gameList[i], p) + '</li>';
+                }
+            
+                var div = document.createElement('div');
+                if(players > 0 && players <= Object.keys(gameList[i]["suggested_numplayers"]).length) {
+                    div.classList.add('game-item', "suggestion-"+ gameList[i]["suggested_numplayers"][players].toLowerCase().replace(' ','-'));
+                } else {
+                    div.classList.add('game-item');
+                }
+                div.innerHTML = `
+                    <a href="https://boardgamegeek.com/boardgame/${gameList[i]["gameID"]}"><img class="game-img" src=${gameList[i]["imgUrl"]} width = 150px height=150px object-fit: fill></a>
+                    <div class="game-info">
+                        <h3>${gameList[i]["name"]}</h3>
+                        <ul>
+                            ${numPlayersDiv}
+                        </ul>
+                        <div class="averageweight-bar">
+                            <span class="${color_weight(gameList[i]["averageweight"])}" style="--weight: ${gameList[i]["averageweight"]*100/5}%;">${gameList[i]["averageweight"].toFixed(2)}</span>
+                        </div>
                     </div>
-                </div>
-            `;
-            document.getElementById('game-list').appendChild(div);
+                `;
+                document.getElementById('game-list').appendChild(div);
+            }
         }
     }   
 }
@@ -149,6 +152,17 @@ function color_weight(weight) {
 function change_selected_players() {
     players = parseInt(document.getElementById("list-of-players").value);
     document.getElementById('game-list').innerHTML = '';
+    load_html();
+}
+
+function change_sort() {
+    sort_by = document.getElementById("sort-by").value;
+    gameList.sort(function(first, second) {
+        if (typeof(first[sort_by]) != 'string') {
+            return first[sort_by] - second[sort_by];
+        }
+        return first[sort_by].localeCompare(second[sort_by]);
+       });
     load_html();
 }
 

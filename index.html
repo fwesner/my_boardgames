@@ -21,6 +21,13 @@
         <option value="8">8 jugadores</option>
         <option value="9">9 jugadores</option>
     </select>
+    <label for="sort-by">Ordenar por:</label>
+    <select id="sort-by" onchange="change_sort()">
+        <option value="name">Nombre</option>
+        <option value="averageweight">Peso</option>
+    </select>
+    <label for="exclude-not-recommended"> Excluir no recomendados</label>
+    <input type="checkbox" id="exclude-not-recommended" onchange="load_html()">
 </article>
 
 <article class="games">
