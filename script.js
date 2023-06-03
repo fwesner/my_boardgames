@@ -1,11 +1,12 @@
 
 var players = 0;
 var gameList = [];
+var collection = "own";
 load_games();
 
 
 function load_games() {
-    fetch("https://boardgamegeek.com/xmlapi2/collection?username=wesnet")
+    fetch("https://130.211.47.221/xmlapi2/collection?username=wesnet")
     .then(response => response.text())
     .then((data) => {
         let parser = new DOMParser(), 
@@ -14,10 +15,12 @@ function load_games() {
         games = xml.getElementsByTagName("item")
         var gameIDs = [];
         for(var i =0; i< games.length; i++) {
-            var game = games[i];
-            if (game.getElementsByTagName("status")[0].getAttribute("own") == 1) {
-                gameIDs.push(game.getAttribute("objectid"));
-            }
+            const game = {
+                gameID: games[i].getAttribute("objectid"),
+                own: games[i].getElementsByTagName("status")[0].getAttribute("own") == 1,
+                wishlist: games[i].getElementsByTagName("status")[0].getAttribute("wishlist") == 1
+            };
+            gameIDs.push(game);
         }
         return gameIDs;
     }).then( (gameIDs) => {
@@ -31,7 +34,9 @@ function load_games_info(gameIDs) {
     
     for(var i =0; i<gameIDs.length; i++) {
 
-        const promise = fetch("https://boardgamegeek.com/xmlapi2/thing?id="+gameIDs[i]+"&stats=1")
+        const own = gameIDs[i]["own"];
+        const wishlist = gameIDs[i]["wishlist"];
+        const promise = fetch("https://130.211.47.221/xmlapi2/thing?id="+gameIDs[i]["gameID"]+"&stats=1")
         .then(response => response.text())
         .then((data) => {
 
@@ -71,7 +76,9 @@ function load_games_info(gameIDs) {
                 maxPlayers: parseInt(xml.getElementsByTagName("maxplayers")[0].getAttribute("value")),
                 averageweight: parseFloat(xml.getElementsByTagName("averageweight")[0].getAttribute("value")),
                 imgUrl: xml.getElementsByTagName("image")[0].innerHTML,
-                suggested_numplayers: players_votes
+                suggested_numplayers: players_votes,
+                own: own,
+                wishlist: wishlist
             };
             gameList.push(game);
         });
@@ -86,34 +93,37 @@ function load_html() {
     document.getElementById('game-list').innerHTML = '';
     for(var i =0; i<gameList.length; i++) {
 
-        if (players == 0 || get_recommendation_for(gameList[i], players) != "Not Playable") {
+        if (gameList[i][collection]) {
 
-            if (!document.getElementById("exclude-not-recommended").checked || get_recommendation_for(gameList[i], players) != "Not Recommended") {
-            
-                var numPlayersDiv = '';
-                for(var p = 1; p <= Object.keys(gameList[i]["suggested_numplayers"]).length; p++) {
-                    numPlayersDiv += '<li>' + image_players(gameList[i], p) + '</li>';
-                }
-            
-                var div = document.createElement('div');
-                if(players > 0 && players <= Object.keys(gameList[i]["suggested_numplayers"]).length) {
-                    div.classList.add('game-item', "suggestion-"+ gameList[i]["suggested_numplayers"][players].toLowerCase().replace(' ','-'));
-                } else {
-                    div.classList.add('game-item');
-                }
-                div.innerHTML = `
-                    <a href="https://boardgamegeek.com/boardgame/${gameList[i]["gameID"]}"><img class="game-img" src=${gameList[i]["imgUrl"]} width = 150px height=150px object-fit: fill></a>
-                    <div class="game-info">
-                        <h3>${gameList[i]["name"]}</h3>
-                        <ul>
-                            ${numPlayersDiv}
-                        </ul>
-                        <div class="averageweight-bar">
-                            <span class="${color_weight(gameList[i]["averageweight"])}" style="--weight: ${gameList[i]["averageweight"]*100/5}%;">${gameList[i]["averageweight"].toFixed(2)}</span>
+            if (players == 0 || get_recommendation_for(gameList[i], players) != "Not Playable") {
+
+                if (!document.getElementById("exclude-not-recommended").checked || get_recommendation_for(gameList[i], players) != "Not Recommended") {
+                
+                    var numPlayersDiv = '';
+                    for(var p = 1; p <= Object.keys(gameList[i]["suggested_numplayers"]).length; p++) {
+                        numPlayersDiv += '<li>' + image_players(gameList[i], p) + '</li>';
+                    }
+                
+                    var div = document.createElement('div');
+                    if(players > 0 && players <= Object.keys(gameList[i]["suggested_numplayers"]).length) {
+                        div.classList.add('game-item', "suggestion-"+ gameList[i]["suggested_numplayers"][players].toLowerCase().replace(' ','-'));
+                    } else {
+                        div.classList.add('game-item');
+                    }
+                    div.innerHTML = `
+                        <a href="https://boardgamegeek.com/boardgame/${gameList[i]["gameID"]}"><img class="game-img" src=${gameList[i]["imgUrl"]} width = 150px height=150px object-fit: fill></a>
+                        <div class="game-info">
+                            <h3>${gameList[i]["name"]}</h3>
+                            <ul>
+                                ${numPlayersDiv}
+                            </ul>
+                            <div class="averageweight-bar">
+                                <span class="${color_weight(gameList[i]["averageweight"])}" style="--weight: ${gameList[i]["averageweight"]*100/5}%;">${gameList[i]["averageweight"].toFixed(2)}</span>
+                            </div>
                         </div>
-                    </div>
-                `;
-                document.getElementById('game-list').appendChild(div);
+                    `;
+                    document.getElementById('game-list').appendChild(div);
+                }
             }
         }
     }   
@@ -163,6 +173,11 @@ function change_sort() {
         }
         return first[sort_by].localeCompare(second[sort_by]);
        });
+    load_html();
+}
+
+function change_list() {
+    collection = "wishlist";
     load_html();
 }
 

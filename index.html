@@ -33,6 +33,14 @@
     </div>
 
     <div class="filter">
+        <label for="in-collection">En lista:</label>
+        <select id="in-collection" onchange="change_list()">
+            <option value="name">En mi colección</option>
+            <option value="averageweight">En mi lista de deseados</option>
+        </select>
+    </div>
+
+    <div class="filter">
         <label for="exclude-not-recommended"> Excluir no recomendados</label>
         <input type="checkbox" id="exclude-not-recommended" onchange="load_html()">
     </div>
