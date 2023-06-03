@@ -6,7 +6,7 @@ load_games();
 
 
 function load_games() {
-    fetch("https://130.211.47.221/xmlapi2/collection?username=wesnet")
+    fetch("https://boardgamegeek.com/xmlapi2/collection?username=wesnet")
     .then(response => response.text())
     .then((data) => {
         let parser = new DOMParser(), 
@@ -36,7 +36,7 @@ function load_games_info(gameIDs) {
 
         const own = gameIDs[i]["own"];
         const wishlist = gameIDs[i]["wishlist"];
-        const promise = fetch("https://130.211.47.221/xmlapi2/thing?id="+gameIDs[i]["gameID"]+"&stats=1")
+        const promise = fetch("https://boardgamegeek.com/xmlapi2/thing?id="+gameIDs[i]["gameID"]+"&stats=1")
         .then(response => response.text())
         .then((data) => {
 
