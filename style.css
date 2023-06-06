@@ -119,6 +119,15 @@ li {
     display: inline;
 }
 
+.weight-info {
+    display: flex;
+    align-items: center;
+}
+
+.icon-img {
+    height: 30px;
+    width: 30px;
+}
 
 .averageweight-bar {
     width: 100%;
@@ -127,6 +136,7 @@ li {
     border: 1px solid rgb(173, 173, 173);
     overflow: hidden;
     position: relative;
+    flex-grow: 1;
 }
 
 .averageweight-bar span {
@@ -158,6 +168,59 @@ li {
 .weight-red {
     background-color:red;
     color: rgb(255, 251, 251);
+}
+
+.language-info {
+    display: flex;
+    align-items: center;
+}
+
+.language-icon {
+    height: 15px;
+    width: 15px;
+}
+
+.language-bar {
+    width: 100%;
+    height: 15px;
+    border-radius: 5px;
+    border: 1px solid rgb(173, 173, 173);
+    overflow: hidden;
+    position: relative;
+}
+
+.language-bar span {
+    height: 100%;
+    display: block;
+    line-height: 10px;
+    position: absolute;
+    text-align: end;
+    padding-right: 5px;
+}
+
+.language-No {
+    background-color:green;
+    width: 20%;
+}
+
+.language-Some {
+    background-color:yellow;
+    width: 40%;
+}
+
+.language-Moderate {
+    background-color:orangered;
+    width: 60%;
+}
+
+.language-Extensive {
+    background-color:red;
+    width: 80%;
+}
+
+.language-Unplayable {
+    background-color:purple;
+    width: 100%;
 }
 
 

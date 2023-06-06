@@ -34,6 +34,8 @@ function load_games_info(gameIDs) {
     
     for(var i =0; i<gameIDs.length; i++) {
 
+        (async () => await new Promise(resolve => setTimeout(resolve, 500)))();
+
         const own = gameIDs[i]["own"];
         const wishlist = gameIDs[i]["wishlist"];
         const promise = fetch("https://boardgamegeek.com/xmlapi2/thing?id="+gameIDs[i]["gameID"]+"&stats=1")
@@ -69,6 +71,16 @@ function load_games_info(gameIDs) {
                 
             }
 
+            tmp = xml.getElementsByName("language_dependence")[0].children[0].children;
+            language_dep = "Error";
+            max_value = 0;
+            for(var l = 0; l < tmp.length; l++) {
+                if (parseInt(tmp[l].getAttribute("numvotes")) >= max_value) {
+                    max_value = parseInt(tmp[l].getAttribute("numvotes"));
+                    language_dep = tmp[l].getAttribute("value");
+                }
+            }
+
             const game = {
                 gameID: xml.getElementsByTagName("item")[0].getAttribute("id"),
                 name: xml.getElementsByTagName("name")[0].getAttribute("value"),
@@ -77,10 +89,12 @@ function load_games_info(gameIDs) {
                 averageweight: parseFloat(xml.getElementsByTagName("averageweight")[0].getAttribute("value")),
                 imgUrl: xml.getElementsByTagName("image")[0].innerHTML,
                 suggested_numplayers: players_votes,
+                language_dependence: language_dep.substring(0, language_dep.indexOf(" ")),
                 own: own,
                 wishlist: wishlist
             };
             gameList.push(game);
+            console.log(game);
         });
         promises.push(promise);
     }
@@ -113,13 +127,24 @@ function load_html() {
                     div.innerHTML = `
                         <a href="https://boardgamegeek.com/boardgame/${gameList[i]["gameID"]}"><img class="game-img" src=${gameList[i]["imgUrl"]} width = 150px height=150px object-fit: fill></a>
                         <div class="game-info">
+                            <div class="language-info">
+                                <img class="language-icon" src=https://cdn2.iconfinder.com/data/icons/electronic-line-3/64/global_Earth_language_international_interface_icon0A-512.png>
+                                <div class="language-bar">
+                                    <span class="language-${gameList[i]["language_dependence"]}"></span>
+                                </div>
+                            </div>
+
                             <h3>${gameList[i]["name"]}</h3>
+                            
                             <ul>
                                 ${numPlayersDiv}
                             </ul>
-                            <div class="averageweight-bar">
-                                <span class="${color_weight(gameList[i]["averageweight"])}" style="--weight: ${gameList[i]["averageweight"]*100/5}%;">${gameList[i]["averageweight"].toFixed(2)}</span>
+                            <div class="weight-info">
+                                <div class="averageweight-bar">
+                                    <span class="${color_weight(gameList[i]["averageweight"])}" style="--weight: ${gameList[i]["averageweight"]*100/5}%;">${gameList[i]["averageweight"].toFixed(2)}</span>
+                                </div>
                             </div>
+                            
                         </div>
                     `;
                     document.getElementById('game-list').appendChild(div);
