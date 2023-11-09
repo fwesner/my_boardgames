@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="393531">
+         <thumbnail>https://cf.geekdo-images.com/L--XfKGS3qeNB-WHxtIb6w__thumb/img/NZm0KblUtA6WQpXAGdiONWPvX1Q=/fit-in/200x150/filters:strip_icc()/pic7596600.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/L--XfKGS3qeNB-WHxtIb6w__original/img/v8pBSuEuKJV1BazeZw7-KaUj6xs=/0x0/filters:format(jpeg)/pic7596600.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Fields of Arle: Big Box" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Campos de Arle: Big Box" />
+			    				
+				<name type="alternate" sortindex="1" value="Terres d&#039;Arle: Big Box" />
+			    				
+				<name type="alternate" sortindex="1" value="阿勒农场（阿勒農場）" />
+			    				
+				<name type="alternate" sortindex="1" value="아를의 평원: 빅 박스" />
+			
+						               													<description>In Fields of Arle, created by Uwe Rosenberg, one to two players live as farmers in the small and peaceful town of Arle in East Frisia. The flax grown in the land surrounding the village makes it a profitable place to work and live. Fields of Arle takes players through four and a half years of this era of prosperity, with different opportunities available as the seasons change. Farm the land to capitalize on the demand for flax, or find other ways to make the most of the small town&amp;rsquo;s prosperity.&amp;#10;&amp;#10;This Big Box version includes:&amp;#10;&amp;#10;     Tea &amp;amp; Trade expansion&amp;#10;     3rd player components&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="116" value="No necessary in-game text" numvotes="0" />
+					<result level="117" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="118" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="119" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="120" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2903" value="Automatic Resource Growth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2889" value="Highest-Lowest Scoring" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2829" value="Turn Order: Claim Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2828" value="Turn Order: Progressive" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7530" value="Animals: Cattle / Cows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7523" value="Animals: Horses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7481" value="Animals: Sheep" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10643" value="Country: Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46171" value="Game: Fields of Arle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3866" value="Series: Harvest (Uwe Rosenberg)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62849" value="Versions &amp; Editions: Big Box Versions of Individual Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="401633" value="Frisian Landscapes (Fan expansion to Fields of Arle)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="159675" value="Fields of Arle" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="226441" value="Fields of Arle: Tea &amp; Trade" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="100760" value="Tido Lorenz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12484" value="Dennis Lohausen" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22380" value="Feuerland Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12540" value="Game Harbor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29409" value="Super Meeple" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="13" />
+			<average value="8.60769" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.852563" />
+			<median value="0" />
+			<owned value="41" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="22" />
+			<numcomments value="4" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
