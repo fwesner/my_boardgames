@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="396790">
+         <thumbnail>https://cf.geekdo-images.com/fIVUaMvbfy6GCOgfxt7xaw__thumb/img/jKsO4nKmtNjX5bfH7aCPeK7hsqU=/fit-in/200x150/filters:strip_icc()/pic7647168.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/fIVUaMvbfy6GCOgfxt7xaw__original/img/dBMnuz3SrgxsDLHT6pwbQFPQBIw=/0x0/filters:format(jpeg)/pic7647168.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Nucleum" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Nukleum" />
+			    				
+				<name type="alternate" sortindex="1" value="核子激荡" />
+			
+						               													<description>When Elsa von Fr&amp;uuml;hlingfeld presented her invention to King Frederik Augustus II of Saxony, people thought it was trickery. She used the recently isolated element Uranium to heat up a jar of water and used the resulting steam to power an engine that kept the Uranium active via a process she called &amp;ldquo;atomization.&amp;rdquo; Her device, the Nucleum, ushered in a new era of energy and prosperity over the next decades. Saxony went from a minor regional power to the hub of European science and engineering. Now, a generation later, factories are still hungry for more power, demanding bigger and more Nucleums to be built, more Uranium imported from the nearby country of Bohemia, and railways and power lines built across the country to carry the tamed power of the atoms to Saxony&amp;rsquo;s great cities. Inventors, engineers, and industrialists flock to the Saxon court, vying to be the leader in this new industrial revolution.&amp;#10;&amp;#10;Nucleum is a heavy euro board game in which players take role of industrialists trying to succeed during the economic and technological boom of 19th-century Saxony, fueled by the invention and spread of the Nucleum (a nuclear reactor).&amp;#10;&amp;#10;Players earn victory points by developing their networks, building and powering urban buildings, securing contracts, and meeting milestones (randomized endgame goals). Each player also gets unique asymmetric technologies, giving them special powers when unlocked. Gameplay is continuous; players take turns one after another with no rounds or phases.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="136">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="28" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="29" />
+					<result value="Recommended" numvotes="58" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="52" />
+					<result value="Recommended" numvotes="45" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="41" />
+					<result value="Recommended" numvotes="45" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="52" />
+				</results>					
+	</poll> 			               				<playingtime value="150" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="150" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="9" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="791" value="No necessary in-game text" numvotes="9" />
+					<result level="792" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="793" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="794" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="795" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2839" value="Action Retrieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2900" value="Market" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2849" value="Tech Trees / Tech Tracks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50152" value="History: Industrial Revolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75798" value="Region: Saxony (Germany)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26464" value="Theme: Alternate History" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="99080" value="Theme: Electricity Generation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="400823" value="Nucleum: Acrylic Nucleums Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="408223" value="Nucleum: Australia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="400825" value="Nucleum: Nucleum Half Tiles Promo" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="35418" value="Simone Luciani" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="76227" value="Dávid Turczi" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11898" value="Andreas Resch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="123923" value="Piotr Sokołowski" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="86237" value="Zbigniew Umgelter" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26630" value="Board&amp;Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42147" value="Giant Roc" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5380" value="Intrafin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44349" value="Mosaico Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="55187" value="Old Dawg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2695" />
+			<average value="8.25547" />
+			<bayesaverage value="7.02253" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="428" bayesaverage="7.02253" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="210" bayesaverage="7.24865" />
+												</ranks>
+
+			<stddev value="1.25013" />
+			<median value="0" />
+			<owned value="5177" />
+			<trading value="32" />
+			<wanting value="497" />
+			<wishing value="3618" />
+			<numcomments value="496" />
+			<numweights value="268" />
+			<averageweight value="4.0821" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
