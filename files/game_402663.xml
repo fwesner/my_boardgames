@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="402663">
+         <thumbnail>https://cf.geekdo-images.com/pP4AVa3WNYvn2nWpE-Q6xw__thumb/img/dXEMvFFhoIj3QkSoK4YTCbAsJEo=/fit-in/200x150/filters:strip_icc()/pic7821718.png</thumbnail>
+      <image>https://cf.geekdo-images.com/pP4AVa3WNYvn2nWpE-Q6xw__original/img/tpe4k2kqT9AD0G7Y36Na0tHvgYI=/0x0/filters:format(png)/pic7821718.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Salton Sea" />
+			
+						                           
+						               													<description>Salton Sea is a unique place located in California, very close to the border with Mexico. The characteristics of this salty lake make it a unique location to generate geothermal energy, which takes advantage of the heat from the planet. In this area of intense geothermal activity, you will drill the ground and extract brine which, once processed, allows us to obtain the valuable lithium and sell it as part of a modern industry, far from fossil fuels, that will allow you to lead the energy transition towards a completely renewable future.&amp;#10;&amp;#10;Designed by David Bernal and illustrated by Amelia Sales, Salton Sea can be enjoyed alone or in groups of up to four players in sessions lasting about 120 minutes. During the game, players must manage their geothermal lithium extraction companies to obtain the greatest number of points. The extraction of this material and its subsequent processing will be the driving force of your companies.&amp;#10;&amp;#10;On your turn, place one of your four engineers on one of the available spaces to take an action. There are three different groups of actions: industrial actions (which allow you to obtain an exploration license, drill, extract, process or repair machinery), commercial actions (sell, acquire contract and execute contract), and management actions (research, buy shares, develop the business project or finance itself). It is up to you to manage the engineers at each point of the game to get the most out of your company.&amp;#10;&amp;#10;However, there is no single path to success. The game will reward you for exhausted land, executed contracts, short-term objectives, company development, or research advances. Will you master the power of the Salton Sea to create the most efficient geothermal company?&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="45">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="6" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2910" value="Investment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2005" value="Stock Holding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="99601" value="Series: Small Box Euros (Devir)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="43674" value="States: California" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="119825" value="David Bernal" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="78606" value="Amelia Sales" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="778" />
+			<average value="7.70581" />
+			<bayesaverage value="6.05671" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2634" bayesaverage="6.05671" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1188" bayesaverage="6.20097" />
+												</ranks>
+
+			<stddev value="1.33785" />
+			<median value="0" />
+			<owned value="2145" />
+			<trading value="28" />
+			<wanting value="121" />
+			<wishing value="819" />
+			<numcomments value="151" />
+			<numweights value="85" />
+			<averageweight value="3.7176" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

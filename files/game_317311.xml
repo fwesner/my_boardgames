@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="317311">
+         <thumbnail>https://cf.geekdo-images.com/yRliFmp8SCRMxKVR8cApJg__thumb/img/2G-SpqNWmlyMby7xDybCOo-pAB0=/fit-in/200x150/filters:strip_icc()/pic6630215.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/yRliFmp8SCRMxKVR8cApJg__original/img/FFiYzKYdfS7CfgEt3aYD7IaADgk=/0x0/filters:format(jpeg)/pic6630215.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Switch &amp; Signal" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Convoi Express" />
+			    				
+				<name type="alternate" sortindex="1" value="Zwrotnice i Semafory" />
+			    				
+				<name type="alternate" sortindex="1" value="Паровозы и Семафоры" />
+			
+						               													<description>All Aboard! &amp;mdash; The Cooperative Train Game&amp;#10;&amp;#10;You begin this cooperative, family-friendly train game by controlling just a few trains on the tracks. At first, it&amp;rsquo;s easy to make them travel where you like. As more trains arrive, you have to plan and coordinate your train schedules. Is the signal green? Where is this train going? Oh no, the switch wasn&amp;rsquo;t set! If your train heads off in the wrong direction, your goods won&amp;rsquo;t arrive on time! Only by working together to schedule and move your trains efficiently, will you and your team of conductors be able to win the game.&amp;#10;&amp;#10;The two different gameboards, Central Europe and North America, each bring fun challenges to overcome. In this cooperative strategy train game work with your teammates to build a network of trains that run at different speeds to transport goods as efficiently as possible. It has simple rules that are easy to learn and allow you to jump right into the action. Switch &amp;amp; Signal features a double-sided game board, city tile variants, and customizable difficulty levels.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="57">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="34" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1011" value="Transportation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367087" value="KOSMOS Helper App" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="160726" value="Switch and Signal" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="67071" value="David Thompson (I)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72917" value="Antje Stephan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1637" />
+			<average value="7.15073" />
+			<bayesaverage value="6.22012" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1961" bayesaverage="6.22012" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="990" bayesaverage="6.35231" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="555" bayesaverage="6.37471" />
+												</ranks>
+
+			<stddev value="1.15584" />
+			<median value="0" />
+			<owned value="3254" />
+			<trading value="75" />
+			<wanting value="204" />
+			<wishing value="1173" />
+			<numcomments value="313" />
+			<numweights value="42" />
+			<averageweight value="2.0952" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
