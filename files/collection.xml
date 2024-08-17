@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<items totalitems="276" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse" pubdate="Sun, 28 Jul 2024 22:17:41 +0000">
+<items totalitems="281" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse" pubdate="Sat, 17 Aug 2024 18:01:54 +0000">
 		<item objecttype="thing" objectid="371947" subtype="boardgame" collid="119342217">
 	<name sortindex="1">3 Ring Circus</name>
 		<yearpublished>2023</yearpublished>			<image>https://cf.geekdo-images.com/rlVMW44IxSdXg0mfbdOdOg__original/img/0dv_H-9NXnu7aKwbZD0T9cHTHyw=/0x0/filters:format(jpeg)/pic7819093.jpg</image>
@@ -378,6 +378,12 @@
 		<thumbnail>https://cf.geekdo-images.com/ZBy8Vm343W82xVC06Tu-Ww__thumb/img/RC2XDFzsFRi5tMxkVypHM_QFtnA=/fit-in/200x150/filters:strip_icc()/pic6757285.jpg</thumbnail>
 			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2024-05-09 21:46:27" />
 	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="256916" subtype="boardgame" collid="122291586">
+	<name sortindex="1">Concordia Venus</name>
+		<yearpublished>2018</yearpublished>			<image>https://cf.geekdo-images.com/36WIe0ZHkp5OvHOlB-8vog__original/img/4oIeldEZrg5Fi2YAlc5SzldywaA=/0x0/filters:format(jpeg)/pic4356580.jpg</image>
+		<thumbnail>https://cf.geekdo-images.com/36WIe0ZHkp5OvHOlB-8vog__thumb/img/C7u2bDi9kOoLkLoYHJ_jr0A928A=/fit-in/200x150/filters:strip_icc()/pic4356580.jpg</thumbnail>
+			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2024-08-17 12:59:49" />
+	<numplays>0</numplays>							</item>
 		<item objecttype="thing" objectid="269511" subtype="boardgame" collid="104805699">
 	<name sortindex="1">Cooper Island</name>
 		<yearpublished>2020</yearpublished>			<image>https://cf.geekdo-images.com/kh6kkcDIIpO3lSC9tc7kWg__original/img/lIhTxXXf-zwpL6aNzMA9F1P9YWA=/0x0/filters:format(png)/pic5427665.png</image>
@@ -534,6 +540,12 @@
 		<thumbnail>https://cf.geekdo-images.com/YqOHAsl8zBL6MUfi3ZTHEg__thumb/img/ifBM-25dl3QGt_87f2zqTB5h58o=/fit-in/200x150/filters:strip_icc()/pic2628036.jpg</thumbnail>
 			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2023-04-04 17:51:32" />
 	<numplays>1</numplays>							</item>
+		<item objecttype="thing" objectid="233398" subtype="boardgame" collid="122133844">
+	<name sortindex="1">Endeavor: Age of Sail</name>
+		<yearpublished>2018</yearpublished>			<image>https://cf.geekdo-images.com/YXYqQZ05gC9kNlgX7cbR8g__original/img/D4TCl_FNsC867ww_NNj4VmVUBr0=/0x0/filters:format(jpeg)/pic3913274.jpg</image>
+		<thumbnail>https://cf.geekdo-images.com/YXYqQZ05gC9kNlgX7cbR8g__thumb/img/tnCicYCs55D8rwF0RKFaBdXjb44=/fit-in/200x150/filters:strip_icc()/pic3913274.jpg</thumbnail>
+			<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="1" wishlistpriority="3" preordered="0" lastmodified="2024-08-12 16:24:12" />
+	<numplays>0</numplays>							</item>
 		<item objecttype="thing" objectid="175621" subtype="boardgame" collid="90632756">
 	<name sortindex="1">Epic Card Game</name>
 		<yearpublished>2015</yearpublished>			<image>https://cf.geekdo-images.com/DfhQjeh-IzvUMFH__QUDXA__original/img/o7b9oFEfBQ4BOtY_bOhDQ6C4Jlw=/0x0/filters:format(jpeg)/pic2691347.jpg</image>
@@ -630,6 +642,12 @@
 		<thumbnail>https://cf.geekdo-images.com/GlCmHjdLwv3SqSjv52ToGw__thumb/img/WXzXZh50EGKd1U2fg75fCbFIL_8=/fit-in/200x150/filters:strip_icc()/pic6966955.jpg</thumbnail>
 			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2024-03-01 15:00:20" />
 	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="93" subtype="boardgame" collid="122291557">
+	<name sortindex="4">El Grande</name>
+		<yearpublished>1995</yearpublished>			<image>https://cf.geekdo-images.com/RRKDHaYtFPHhczkUDcHOmg__original/img/E_QazS4f8ffj6oBcUl3C_VROCEw=/0x0/filters:format(jpeg)/pic7906240.jpg</image>
+		<thumbnail>https://cf.geekdo-images.com/RRKDHaYtFPHhczkUDcHOmg__thumb/img/XPcVtsZPITv5qe3IXpzMKa5RSYA=/fit-in/200x150/filters:strip_icc()/pic7906240.jpg</thumbnail>
+			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2024-08-17 12:58:46" />
+	<numplays>0</numplays>							</item>
 		<item objecttype="thing" objectid="146886" subtype="boardgame" collid="106597085">
 	<name sortindex="4">La Granja</name>
 		<yearpublished>2014</yearpublished>			<image>https://cf.geekdo-images.com/ufUK_7N_13rYhsIurbbtzg__original/img/eKzUqIgkc34WsSVq9zSW6sjZgbc=/0x0/filters:format(jpeg)/pic2031777.jpg</image>
@@ -665,6 +683,12 @@
 		<yearpublished>2020</yearpublished>			<image>https://cf.geekdo-images.com/AdJBpY_o7PQEcoJPU1QdTg__original/img/6iXYfqlV5oZgqMAUHyWVKxn_7AM=/0x0/filters:format(jpeg)/pic5869977.jpg</image>
 		<thumbnail>https://cf.geekdo-images.com/AdJBpY_o7PQEcoJPU1QdTg__thumb/img/4E7KeT1tnpwc5e4DJujgh8R8eCk=/fit-in/200x150/filters:strip_icc()/pic5869977.jpg</thumbnail>
 			<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="1" wishlistpriority="4" preordered="0" lastmodified="2023-06-30 19:51:30" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="43015" subtype="boardgame" collid="122291532">
+	<name sortindex="1">Hansa Teutonica</name>
+		<yearpublished>2009</yearpublished>			<image>https://cf.geekdo-images.com/3IkzYcplGfFtVrd3syClHg__original/img/RqYxJUdNXPmHUWrlADIbTf9Bi_g=/0x0/filters:format(jpeg)/pic839090.jpg</image>
+		<thumbnail>https://cf.geekdo-images.com/3IkzYcplGfFtVrd3syClHg__thumb/img/4350nWgj6kTrn8BWFI6cxvts_E0=/fit-in/200x150/filters:strip_icc()/pic839090.jpg</thumbnail>
+			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2024-08-17 12:58:00" />
 	<numplays>0</numplays>							</item>
 		<item objecttype="thing" objectid="286749" subtype="boardgame" collid="121609330">
 	<name sortindex="1">Hansa Teutonica: Big Box</name>
@@ -1182,11 +1206,17 @@
 		<thumbnail>https://cf.geekdo-images.com/iPmka8OWA-jr3sX7bABJkw__thumb/img/wI5QTNpvPZIc8_wM5R6A1tov6Qc=/fit-in/200x150/filters:strip_icc()/pic2884343.jpg</thumbnail>
 			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2023-05-22 19:22:43" />
 	<numplays>2</numplays>							</item>
+		<item objecttype="thing" objectid="332772" subtype="boardgame" collid="122291550">
+	<name sortindex="1">Revive</name>
+		<yearpublished>2022</yearpublished>			<image>https://cf.geekdo-images.com/V0OZ9QR0pC9G5t5i9MoZTQ__original/img/NxxAoxVxMNkDGEkD3aoobPL14dI=/0x0/filters:format(jpeg)/pic6950224.jpg</image>
+		<thumbnail>https://cf.geekdo-images.com/V0OZ9QR0pC9G5t5i9MoZTQ__thumb/img/NPtXuKlsnfPORSn6kpTcf-ZdEF0=/fit-in/200x150/filters:strip_icc()/pic6950224.jpg</thumbnail>
+			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2024-08-17 12:58:34" />
+	<numplays>0</numplays>							</item>
 		<item objecttype="thing" objectid="227515" subtype="boardgame" collid="106597310">
 	<name sortindex="1">Riverboat</name>
 		<yearpublished>2017</yearpublished>			<image>https://cf.geekdo-images.com/2sERfmFw2sWOkeIKBNlpkg__original/img/_eT0mk8OHuBJR1J697vCbgbv--c=/0x0/filters:format(png)/pic3812239.png</image>
 		<thumbnail>https://cf.geekdo-images.com/2sERfmFw2sWOkeIKBNlpkg__thumb/img/Wd71rMfkQuT9JD21wnyBMfC8Bw4=/fit-in/200x150/filters:strip_icc()/pic3812239.png</thumbnail>
-			<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2023-07-21 09:58:53" />
+			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2024-08-17 12:57:22" />
 	<numplays>0</numplays>							</item>
 		<item objecttype="thing" objectid="121921" subtype="boardgame" collid="102934292">
 	<name sortindex="1">Robinson Crusoe: Adventures on the Cursed Island</name>

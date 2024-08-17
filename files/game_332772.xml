@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="332772">
+         <thumbnail>https://cf.geekdo-images.com/V0OZ9QR0pC9G5t5i9MoZTQ__thumb/img/NPtXuKlsnfPORSn6kpTcf-ZdEF0=/fit-in/200x150/filters:strip_icc()/pic6950224.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/V0OZ9QR0pC9G5t5i9MoZTQ__original/img/NxxAoxVxMNkDGEkD3aoobPL14dI=/0x0/filters:format(jpeg)/pic6950224.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Revive" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Ébredés" />
+			    				
+				<name type="alternate" sortindex="1" value="Obleva" />
+			    				
+				<name type="alternate" sortindex="1" value="Проект Возрождение" />
+			    				
+				<name type="alternate" sortindex="1" value="リバイブ" />
+			    				
+				<name type="alternate" sortindex="1" value="黎明新生" />
+			    				
+				<name type="alternate" sortindex="1" value="리바이브" />
+			
+						               													<description>Revive civilization, 5000 years after everything was destroyed. Lead your tribe and explore the frozen earth. Harness its resources. Recruit surface survivors to your cause. Build factories with powerful machines. And populate ancient sites to relearn your tribe's forgotten technologies.&amp;#10;--&amp;#10;Revive is a game for 1-4 players with asymmetric player powers, highly variable setup, and no fighting or direct conflict. Playing through the 5-part campaign unlocks additional contents, and once all contents have been unlocked, the game can be replayed indefinitely.&amp;#10;&amp;#10;At the beginning of the game, each player gets a set of citizen cards, a tribe board, as well as a huge dual-layer player board. The tribe board shows your unique tribe ability and the ancient technologies that you may relearn during the game. The dual-layer player board is where you place your custom machines and upgrade your card slots.&amp;#10;&amp;#10;A main goal of the game is to reach and populate the large ancient sites. These ancient locations are randomized, and as they are important sources of victory points, they will shape your strategy differently each game. The game ends when all artifacts have been taken, and the player with the most points wins.&amp;#10;&amp;#10;On your turn you take two actions: &amp;#10;&amp;#10;     Play a card (its effect is determined by which card slot you use)&amp;#10;     Explore (reveal an area tile and recruit a new citizen card)&amp;#10;     Populate (populate an ancient location to learn a new technology)&amp;#10;     Build factory (the adjacent terrains determine which machine tracks you advance)&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="245">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="76" />
+					<result value="Not Recommended" numvotes="49" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="70" />
+					<result value="Recommended" numvotes="101" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="112" />
+					<result value="Recommended" numvotes="62" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="42" />
+					<result value="Recommended" numvotes="90" />
+					<result value="Not Recommended" numvotes="50" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="88" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="27">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="13" />
+					<result value="14" numvotes="14" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="24">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="5" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="16" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2959" value="Map Addition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2849" value="Tech Trees / Tech Tracks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65191" value="Components: Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="385685" value="Revive: Call of the Abyss" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="420390" value="Revive: Eurohell Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="400641" value="Revive: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="416676" value="Revive: Laserox Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="109214" value="Helge Meissner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4063" value="Kristian Amundsen Østby" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9637" value="Eilif Svensson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="109215" value="Anna Wermlund" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76491" value="Gjermund Bohne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119304" value="Martin Mottet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="134667" value="Dan Roff" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="141504" value="Jessy Töpfer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27674" value="Aporta Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39686" value="Across the Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51066" value="BGA Plus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44580" value="Board Game Rookie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48941" value="Boardgame Mall" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36763" value="Surfin&#039; Meeple China" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7568" />
+			<average value="8.14827" />
+			<bayesaverage value="7.53204" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="104" bayesaverage="7.53204" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="63" bayesaverage="7.66333" />
+												</ranks>
+
+			<stddev value="1.18572" />
+			<median value="0" />
+			<owned value="12012" />
+			<trading value="74" />
+			<wanting value="801" />
+			<wishing value="5828" />
+			<numcomments value="1050" />
+			<numweights value="371" />
+			<averageweight value="3.4151" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
