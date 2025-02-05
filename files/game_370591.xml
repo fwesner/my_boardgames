@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="370591">
+         <thumbnail>https://cf.geekdo-images.com/Nqw3SzV4JDd64lcDgytPEg__thumb/img/SYowoPc4NsBcU6duKGUM93itzZY=/fit-in/200x150/filters:strip_icc()/pic7227691.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Nqw3SzV4JDd64lcDgytPEg__original/img/CK6xh0d01jIC7WOIGALHZCDli34=/0x0/filters:format(jpeg)/pic7227691.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dorfromantik: The Board Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dorfromantik: A társasjáték" />
+			    				
+				<name type="alternate" sortindex="1" value="Dorfromantik: Das Brettspiel" />
+			    				
+				<name type="alternate" sortindex="1" value="Dorfromantik: Desková hra" />
+			    				
+				<name type="alternate" sortindex="1" value="Dorfromantik: El Juego de Mesa" />
+			    				
+				<name type="alternate" sortindex="1" value="Dorfromantik: Gra planszowa" />
+			    				
+				<name type="alternate" sortindex="1" value="Dorfromantik: Het bordspel" />
+			    				
+				<name type="alternate" sortindex="1" value="Dorfromantik: Il Gioco da Tavolo" />
+			    				
+				<name type="alternate" sortindex="1" value="Dorfromantik: Le Jeu de Société" />
+			    				
+				<name type="alternate" sortindex="1" value="Dorfromantik: Сельская идиллия" />
+			    				
+				<name type="alternate" sortindex="1" value="Dorfromantik. Фермерські Пригоди. Настільна гра" />
+			    				
+				<name type="alternate" sortindex="1" value="ดอร์ฟโรแมนติก" />
+			    				
+				<name type="alternate" sortindex="1" value="ドーフロマンティック　ボードゲーム" />
+			    				
+				<name type="alternate" sortindex="1" value="筑梦颂：桌面游戏" />
+			    				
+				<name type="alternate" sortindex="1" value="築夢頌" />
+			    				
+				<name type="alternate" sortindex="1" value="도르프로만틱" />
+			
+						               													<description>Rippling rivers, rustling forests, wheat fields swaying in the wind and here and there a cute little village - that's Dorfromantik! The video game from the small developer studio Toukana Interactive has been thrilling the gaming community since its Early Access in March 2021 and has already won all kinds of prestigious awards. Now Michael Palm and Lukas Zach are transforming the popular building strategy and puzzle game into a family game for young and old with Dorfromantik: The Board Game.&amp;#10;&amp;#10;In Dorfromantik: The Board Game, up to six players work together to lay hexagonal tiles to create a beautiful landscape and try to fulfill the orders of the population, while at the same time laying as long a track and as long a river as possible, but also taking into account the flags that provide points in enclosed areas. The better the players manage to do this, the more points they can score at the end. In the course of the replayable campaign, the points earned can be used to unlock new tiles that are hidden in initially locked boxes. These pose new, additional tasks for the players and make it possible to raise the high score higher and higher.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="276">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="157" />
+					<result value="Recommended" numvotes="84" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="161" />
+					<result value="Recommended" numvotes="71" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="41" />
+					<result value="Recommended" numvotes="106" />
+					<result value="Not Recommended" numvotes="54" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="69" />
+					<result value="Not Recommended" numvotes="125" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="175" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="181" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="170" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1–2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–3 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="76">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="11" />
+					<result value="6" numvotes="31" />
+					<result value="8" numvotes="27" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="15">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="0" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="8" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1101" value="Video Game Theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2959" value="Map Addition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77906" value="Category: Dized Tutorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="406315" value="Dorfromantik: Expansion Content from Dorfromantik – The Duel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="424775" value="Dorfromantik: The Board Game – Die Wetterau" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="396302" value="Dorfromantik: The Board Game – Great Mill" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="424438" value="Dorfromantik: Desková hra – Stíratelný bodovací list" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="404491" value="Dorfromantik: Eurohell Design 3D tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="404490" value="Dorfromantik: Eurohell Design Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="437677" value="Dorfromantik: Spielefürst Upgrade Set" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="395364" value="Dorfromantik: The Duel" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="424774" value="Dorfromantik: Sakura" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="461" value="Michael Palm" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7808" value="Lukas Zach" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="147990" value="Paul Riebe" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="57722" value="Berry Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42728" value="FunMIll.ru" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5380" value="Intrafin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42043" value="IUVI Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52707" value="Mnogoknig Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33010" value="SD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41423" value="TLAMA games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39774" value="Tower Tactic Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="54464" value="Ігрова Майстерня" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28082" value="Нескучные игры" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22609" value="テンデイズゲームズ(TendaysGames)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7620" />
+			<average value="7.63482" />
+			<bayesaverage value="7.10368" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="373" bayesaverage="7.10368" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="70" bayesaverage="7.20782" />
+												</ranks>
+
+			<stddev value="1.33917" />
+			<median value="0" />
+			<owned value="17650" />
+			<trading value="159" />
+			<wanting value="328" />
+			<wishing value="3730" />
+			<numcomments value="1154" />
+			<numweights value="236" />
+			<averageweight value="1.6483" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

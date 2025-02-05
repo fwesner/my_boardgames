@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="408180">
+         <thumbnail>https://cf.geekdo-images.com/XE4S_nXyHVvld2BOrDmA7Q__thumb/img/DAbZgOJbckBSg9Qq8rpdEhzpq_I=/fit-in/200x150/filters:strip_icc()/pic7897060.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/XE4S_nXyHVvld2BOrDmA7Q__original/img/-QciIr30xD5cVmYZVZ_VwuigwSQ=/0x0/filters:format(jpeg)/pic7897060.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Shackleton Base: A Journey to the Moon" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Mondbasis Shackleton" />
+			    				
+				<name type="alternate" sortindex="1" value="섀클턴 베이스" />
+			
+						               													<description>A permanent base is being built in the Shackleton crater at the Moon's South Pole. You're leading one of the space agencies that are working together to expand their presence on the base, while at the same time the three major corporations sponsoring the mission are each pursuing their own agenda. In Shackleton Base: A Journey to the Moon, you will build structures on the base, while also funding projects from the corporations that provide special abilities and scoring opportunities.&amp;#10;&amp;#10;At the start of the game, pick three corporations randomly from the seven available. Each corporation introduces new projects, actions, and scoring opportunities, along with their specific mechanisms. The game is played over three rounds, each divided into three phases:&amp;#10;&amp;#10;&amp;bull; Shuttle phase: Each player drafts a shuttle tile from an open display to determine which type of astronauts and resources they can use that round, as well as the turn order for the next phase.&amp;#10;&amp;#10;&amp;bull; Action phase: Players take turns deploying their astronauts on the moon to collect resources, build structures, or fund projects. Depending on which corporations were selected, different types of resources will be available, resources that can be used in various ways for the projects or to build structures. Each project provides ongoing abilities and scoring opportunities. Each corporation provides different ways to score points, which could be during the action phase, the maintenance phase, or at game's end.&amp;#10;&amp;#10;&amp;bull; Maintenance phase: Deployed astronauts are assigned to work on the structures (providing a bonus to the player owning them), then players collect income and pay maintenance costs. If corporations in play have end-round effects, those effects take place.&amp;#10;&amp;#10;The end of the game brings a final scoring, then the player with the most points wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="41">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1113" value="Space Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2933" value="Worker Placement, Different Worker Types" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="100575" value="Fabio Lopiano" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="52377" value="Nestore Mangone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="106180" value="David Sitbon" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35166" value="Sorry We Are French" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42147" value="Giant Roc" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50993" value="Hachette Boardgames UK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8439" value="Happy Baobab" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21847" value="Pandasaurus Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="795" />
+			<average value="8.0735" />
+			<bayesaverage value="6.15751" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2250" bayesaverage="6.15751" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1010" bayesaverage="6.35244" />
+												</ranks>
+
+			<stddev value="1.2181" />
+			<median value="0" />
+			<owned value="1063" />
+			<trading value="4" />
+			<wanting value="314" />
+			<wishing value="1784" />
+			<numcomments value="167" />
+			<numweights value="65" />
+			<averageweight value="3.7077" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

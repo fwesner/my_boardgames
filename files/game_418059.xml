@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="418059">
+         <thumbnail>https://cf.geekdo-images.com/_BUXOVRDU9g_eRwgpR5ZZw__thumb/img/icamIZ4nP3HHH3vczZqTr1hQgKY=/fit-in/200x150/filters:strip_icc()/pic8160466.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/_BUXOVRDU9g_eRwgpR5ZZw__original/img/28ob2JiASW8iX8XoVzp5Y25-h24=/0x0/filters:format(jpeg)/pic8160466.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="SETI: Search for Extraterrestrial Intelligence" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="SETI: Auf der Suche nach außerirdischem Leben" />
+			    				
+				<name type="alternate" sortindex="1" value="SETI: De Zoektocht naar Buitenaardse Intelligentie" />
+			    				
+				<name type="alternate" sortindex="1" value="SETI: En busca de vida extraterrestre" />
+			    				
+				<name type="alternate" sortindex="1" value="SETI: Pátrání po mimozemské civilizaci" />
+			    				
+				<name type="alternate" sortindex="1" value="SETI: Poszukiwania pozaziemskich cywilizacji" />
+			    				
+				<name type="alternate" sortindex="1" value="SETI: Potraga za vanzemaljskim oblicima života" />
+			    				
+				<name type="alternate" sortindex="1" value="SETI: Recherche d&#039;intelligence extraterrestre" />
+			    				
+				<name type="alternate" sortindex="1" value="SETI: Ricerca di Intelligenza Extraterrestre" />
+			    				
+				<name type="alternate" sortindex="1" value="SETI：地球外知的生命体探査" />
+			
+						               													<description>In SETI: Search for Extraterrestrial Intelligence, a eurogame for 1&amp;ndash;4 players, you lead a scientific institution tasked with searching for traces of life beyond planet Earth. The game draws inspiration from current or emerging technologies and efforts in space exploration.&amp;#10;&amp;#10;Players will explore nearby planets and their moons by launching probes from Earth while taking advantage of ever-shifting planetary positions. Decide whether to land on their surface to collect valuable samples, or stay in orbit for a broader survey. Additionally, by directing your telescopes to gaze into distant star systems, you may detect traces of alien signals or undiscovered exoplanets, and collect promising data to examine and study back home.&amp;#10;&amp;#10;Back on Earth, you can invest in upgrading your equipment so you can analyze incoming data more efficiently, boost your telescope signal capacity, or increase your supply of resources&amp;mdash;all to expand the scope of your search that could lead to a discovery of extraterrestrial life forms.&amp;#10;&amp;#10;You will also make use of over 200 cards to aid your efforts or focus your research in a particular direction for additional bonuses and rewards. Each card has unique effects and illustrations and depicts real-life technologies, projects, and discoveries (like the ISS, Large Hadron Collider, Perseverance rover, Voyager probe, and many more).&amp;#10;&amp;#10;Finding traces of extraterrestrial life is only a matter of time&amp;mdash;utilize the resources you have at your disposal strategically and you may well end up being the one to make the biggest scientific contribution towards advancing our understanding of alien life within our galaxy.&amp;#10;&amp;#10;SETI: Search for Extraterrestrial Intelligence pays homage to space and planetary exploration, astronomy, the ongoing search for signs of life in the vastness of space, and efforts to understand the nature of life in the universe.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="223">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="86" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="110" />
+					<result value="Not Recommended" numvotes="33" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="133" />
+					<result value="Recommended" numvotes="48" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="35" />
+					<result value="Recommended" numvotes="78" />
+					<result value="Not Recommended" numvotes="57" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="92" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="160" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="160" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="24">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="18" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="7" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1113" value="Space Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3099" value="Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2948" value="Resource to Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2828" value="Turn Order: Progressive" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19298" value="Space: Earth&#039;s Solar System" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66108" value="Theme: Astronomy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66167" value="Theme: Science" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="430027" value="SETI: Search for Extraterrestrial Intelligence – Pluto Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="437940" value="SETI: Search for the Extraterrestrial Intelligence – Gateway to Mars Promo Card" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="434375" value="SETI: Search for Extraterrestrial Intelligence – Polandgames UV Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="135378" value="Tomáš Holek" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="115373" value="Ondřej Hrdina" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="160646" value="Oto Kandera" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="127825" value="Jiří Kůs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="160644" value="Jakub Lang" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="160643" value="Michaela Lovecká" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="145646" value="Jiří Mikovec" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="94497" value="Jakub Politzer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="160645" value="Petra Ramešová" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119983" value="František Sedláček" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="160642" value="Petr Štich (III)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="160641" value="Josef Surý" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="54949" value="DSV Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36981" value="Feelindigo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38505" value="HeidelBÄR Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4026" />
+			<average value="8.38267" />
+			<bayesaverage value="7.31123" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="224" bayesaverage="7.31123" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="116" bayesaverage="7.50545" />
+												</ranks>
+
+			<stddev value="1.27065" />
+			<median value="0" />
+			<owned value="7803" />
+			<trading value="14" />
+			<wanting value="646" />
+			<wishing value="6382" />
+			<numcomments value="697" />
+			<numweights value="303" />
+			<averageweight value="3.7459" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

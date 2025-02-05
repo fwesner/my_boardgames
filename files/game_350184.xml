@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="350184">
+         <thumbnail>https://cf.geekdo-images.com/0xqF_KyOb7V26Lu5YT3fxw__thumb/img/ABTwzzMGekkz2jVl01LC4789TcQ=/fit-in/200x150/filters:strip_icc()/pic6699821.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/0xqF_KyOb7V26Lu5YT3fxw__original/img/uqxMcj1QPt-U34drYdL6mmv2eos=/0x0/filters:format(jpeg)/pic6699821.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Earth" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Erde" />
+			    				
+				<name type="alternate" sortindex="3" value="A Föld" />
+			    				
+				<name type="alternate" sortindex="1" value="Zelená planeta" />
+			    				
+				<name type="alternate" sortindex="1" value="Zemlja" />
+			    				
+				<name type="alternate" sortindex="1" value="Ziemia" />
+			    				
+				<name type="alternate" sortindex="1" value="Земля" />
+			    				
+				<name type="alternate" sortindex="1" value="Земля" />
+			    				
+				<name type="alternate" sortindex="1" value="アース" />
+			    				
+				<name type="alternate" sortindex="1" value="地球" />
+			    				
+				<name type="alternate" sortindex="1" value="藍星" />
+			    				
+				<name type="alternate" sortindex="1" value="어스" />
+			
+						               													<description>Earth is a tableau builder for 1 to 5 players with simple rules and countless strategic possibilities. With its encyclopedic nature and a near-infinite number of tableau combinations, every single game will allow you to discover new synergies and connections, just as our vast and fascinating world allows us to do!&amp;#10;&amp;#10;Over thousands of years of evolution and adaptation the flora and fauna of this unique planet have grown and developed into amazing life forms, creating symbiotic ecosystems and habitats.&amp;#10;&amp;#10;It&amp;rsquo;s time to jump into these rich environments and create some amazing natural synergies that replicate and extrapolate on Earth&amp;rsquo;s amazing versatility and plethora of natural resources. Create a self-supporting engine of growth, expansion and supply where even your unused plants become compost for future growth.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;AWARDS &amp;amp; HONORS&amp;#10;&amp;#10;2023 Dice Tower Game of the Year Winner&amp;#10;2023 Dice Tower Strategy Game of the Year Winner&amp;#10;2023 BoardGameOfTheYear.org Game of the Year Winner&amp;#10;2023 People&amp;rsquo;s Choice at Dice Tower #1 Game of the Year, EoY voting)&amp;#10;2023 Dice Tower Seal of Excellence&amp;#10;2023 Board Game Arena Best Forest game Winner&amp;#10;2023 Deutsher Spiele Preis 4th Place&amp;#10;2023 Best of Gen Con Gaming Trends&amp;#10;2023 C&amp;rsquo;ludik expert Game of the Year Winner&amp;#10;2023 Poulie d&amp;rsquo;Or Expert Game of the Year Winner&amp;#10;2023 Coup de coeur Ludovox&amp;#10;2023 Dod d&amp;rsquo;Or Winner&amp;#10;2024 Board game Hangover #1 Nature Game&amp;#10;2024 Coup de Coeur Expert Festival Alchimie du jeu de Toulouse&amp;#10;2024 BIG Awards Game of the Year Winner&amp;#10;2024 BIG Awards Best artwork Winner&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="366">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="159" />
+					<result value="Not Recommended" numvotes="49" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="168" />
+					<result value="Recommended" numvotes="117" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="140" />
+					<result value="Recommended" numvotes="123" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="66" />
+					<result value="Recommended" numvotes="145" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="78" />
+					<result value="Not Recommended" numvotes="123" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="146" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2–3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="56">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="21" />
+					<result value="12" numvotes="26" />
+					<result value="14" numvotes="9" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="23">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="0" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="12" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="7" />
+					<result level="50" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2843" value="Follow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3100" value="Tags" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2874" value="Victory Points as a Resource" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="101684" value="Theme: Cacti and Succulents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6393" value="Theme: Flowers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25368" value="Theme: Mushrooms" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57181" value="Theme: Trees and Forests" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="414734" value="Earth: Abundance" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="382628" value="Earth: African Lion/Koala Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="429642" value="Earth: Bighorn Sheep/Rocky Mountain Elk Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="395137" value="Earth: BoardGameGeek Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="432726" value="Earth: Checkered Lily Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="383124" value="Earth: Kickstarter Goodies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="405801" value="Earth: River Otter/Turtles Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="420913" value="Earth: Weather Module" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="389104" value="Earth: Cinder &amp; Ember Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="392834" value="Earth: Eurohell Design Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="403102" value="Earth: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="390958" value="Earth: LaserLand leaf upgrades" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="390961" value="Earth: LaserLand soil token upgrades" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="390956" value="Earth: LaserLand sprout upgrades" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="390960" value="Earth: LaserLand trunk growth upgrades" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="417482" value="Earth: Laserox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="431715" value="Earth: Meeple House Trays" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="425664" value="Earth: Neoprene 6th Player Tableau Mat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="384014" value="Earth: Neoprene Play Mats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="384015" value="Earth: Wooden Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="85519" value="Maxime Tardif" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="124355" value="M81 Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="92114" value="Conor McGoey" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="141630" value="Yulia Sozonik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="83950" value="Kenneth Spond" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34183" value="Inside Up Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44580" value="Board Game Rookie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50696" value="CoolPlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47476" value="Geronimo Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50478" value="Ludofun" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45510" value="Rawstone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="43169" value="リゴレ (rigoler)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40058" value="Skellig Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="55404" value="Tabletop KZ" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50075" value="Yellowstar Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16882" />
+			<average value="7.65195" />
+			<bayesaverage value="7.35527" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="197" bayesaverage="7.35527" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="152" bayesaverage="7.38593" />
+												</ranks>
+
+			<stddev value="1.44311" />
+			<median value="0" />
+			<owned value="27592" />
+			<trading value="348" />
+			<wanting value="561" />
+			<wishing value="6147" />
+			<numcomments value="2753" />
+			<numweights value="538" />
+			<averageweight value="2.8922" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

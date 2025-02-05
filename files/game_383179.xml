@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="383179">
+         <thumbnail>https://cf.geekdo-images.com/D1vrcFEptCEoD8Z6s_iRfw__thumb/img/0yBK_DMaSgRVrp2fGuNPgb0Jo7w=/fit-in/200x150/filters:strip_icc()/pic7430993.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/D1vrcFEptCEoD8Z6s_iRfw__original/img/1vY0K3wSqlYXq0JEylSI-7agxKs=/0x0/filters:format(jpeg)/pic7430993.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Age of Innovation" />
+			
+						                               				
+				<name type="alternate" sortindex="4" value="La Era de la Innovación" />
+			    				
+				<name type="alternate" sortindex="1" value="Era Innowacji" />
+			    				
+				<name type="alternate" sortindex="1" value="Terra Mystica: L&#039;Era delle Scoperte" />
+			    				
+				<name type="alternate" sortindex="1" value="Terra Mystica: Találmányok kora" />
+			    				
+				<name type="alternate" sortindex="1" value="Ера інновацій" />
+			    				
+				<name type="alternate" sortindex="1" value="テラミスティカ：革新の時代" />
+			    				
+				<name type="alternate" sortindex="1" value="神秘大地：大創造時代" />
+			    				
+				<name type="alternate" sortindex="1" value="혁신의 시대" />
+			
+						               													<description>Age of Innovation is a standalone game set in the world of Terra Mystica.&amp;#10;&amp;#10;Twelve factions, each with unique characteristics, populate this world of varying terrains. Here you will compete to erect buildings and merge them into cities. Each game allows you to create new combinations of factions, homelands, and abilities so that each game isn't the same as another.&amp;#10;&amp;#10;You control one of these factions and will terraform the game map's terrain into your homelands where you can erect your buildings. Proximity to other factions may limit your expansion, but it also gains you significant advantages in the game. This tension adds to the appeal of the Terra Mystica series.&amp;#10;&amp;#10;Upgrade your buildings to gain valuable resources such as tools, scholars, money, and power. Build schools to advance in different sciences and collect books, which you can use to make innovations. Build your palace to gain a powerful new ability or build workshops, guilds, and universities to complete your culture.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="185">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="64" />
+					<result value="Not Recommended" numvotes="46" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="91" />
+					<result value="Not Recommended" numvotes="32" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="49" />
+					<result value="Recommended" numvotes="83" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="112" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="72" />
+					<result value="Not Recommended" numvotes="39" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="66" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 1–5 players" />
+</poll-summary> 			               				<playingtime value="200" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="200" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="24">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="18" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="11" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2830" value="Turn Order: Pass Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2874" value="Victory Points as a Resource" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26098" value="Series: Terra Mystica" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="430516" value="Age of Innovation: Errata Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="424076" value="Age of Innovation: Eurohell 3D books" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="424078" value="Age of Innovation: Eurohell coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="424075" value="Age of Innovation: Eurohell Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="424077" value="Age of Innovation: Eurohell X markers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="420396" value="Age of Innovation: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="417452" value="Age of Innovation: Laserox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="426881" value="Age of Innovation: Moedas &amp; Co. Metal Coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435726" value="Age of Innovation: Tower Rex Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="120677" value="Terra Mystica" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4407" value="Helge Ostertag" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="87333" value="Álvaro Calvo Escudero" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="105660" value="Lukas Siegmon" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30958" value="Capstone Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22380" value="Feuerland Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45134" value="Geekach Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17179" value="IGAMES" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29409" value="Super Meeple" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22609" value="テンデイズゲームズ(TendaysGames)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5735" />
+			<average value="8.59527" />
+			<bayesaverage value="7.68194" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="67" bayesaverage="7.68194" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="31" bayesaverage="7.87108" />
+												</ranks>
+
+			<stddev value="1.27981" />
+			<median value="0" />
+			<owned value="8309" />
+			<trading value="50" />
+			<wanting value="472" />
+			<wishing value="3790" />
+			<numcomments value="817" />
+			<numweights value="342" />
+			<averageweight value="4.2632" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

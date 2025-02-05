@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="324090">
+         <thumbnail>https://cf.geekdo-images.com/b0HXxXK40QsTwSxynD2DDA__thumb/img/dPCm4RXyLyc4kz1m15R5fbko8jM=/fit-in/200x150/filters:strip_icc()/pic5926553.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/b0HXxXK40QsTwSxynD2DDA__original/img/ZgJTGjdDj2CkmYUxNklvYC9q2Yc=/0x0/filters:format(jpeg)/pic5926553.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Scarface 1920" />
+			
+						                           
+						               													<description>&amp;ldquo;You can go a long way with a smile. You can go a lot further with a smile and a gun.&amp;rdquo; -Al Capone&amp;#10;&amp;#10;Chicago in the Roaring 20s. Prohibition has made liquor business illegal and now criminal gangs operate in the underworld to try and take control of the city. Blood, influence, power, and money add up to a dangerous mix on the streets.&amp;#10;&amp;#10;In Scarface 1920 you will lead a gang of mobsters aiming to rule Chicago during the Dry Era (1920-33). To succeed you will have to rule every inch in gangland, expand your racketeering, run bootlegging operations, bribe the city officials, and make sure the coppers are on your side.&amp;#10;&amp;#10;Scarface 1920 blends worker placement with deck-building mechanics in a game where you will have to recruit new associates, break new deals, fill the streets of Chicago with your thugs, enhance your headquarters &amp;mdash;and do some dirty jobs along the way.&amp;#10;&amp;#10;Every gang has a distinct set of abilities embodied in their boss, and in every game you will be able to choose a different path to victory. However, in this turf war you will have to confront other rival gangs that share an identical goal: growing their criminal empire. But they are not the only challenge you will face &amp;mdash;Eliot Ness and his Feds are out to get you too!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="103">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="43" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="55" />
+					<result value="Recommended" numvotes="25" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="34" />
+					<result value="Recommended" numvotes="37" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="34" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="150" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="21">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="16" />
+					<result value="16" numvotes="3" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="0" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="65" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1033" value="Mafia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2933" value="Worker Placement, Different Worker Types" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18227" value="Cities: Chicago (Illinois, USA)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48877" value="Components: Game Trayz Inside" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73776" value="Decades: The 1920&#039;s" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65600" value="History: Prohibition in the USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="44377" value="Interwar period (Nov. 1918 - Aug. 1939)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14661" value="Theme: Mystery / Crime" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="388682" value="Scarface 1920: Bloody Business" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="396664" value="Scarface 1920: Night Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="381515" value="Scarface 1920: Paperboy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="432611" value="Scarface 1920: Rum Vessel Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365521" value="Scarface 1920: The Enforcers Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="396324" value="Scarface 1920: The Golden Oaks Gang" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="396325" value="Scarface 1920: The Red Dragons Tong" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="386682" value="Scarface 1920: Plastic Business Markers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="386677" value="Scarface 1920: Plastic Money Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="386678" value="Scarface 1920: Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="386680" value="Scarface 1920: Wooden Crates" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="40733" value="Toni Serradesanferm" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="131726" value="Daniel Simon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="131122" value="Antonio Stappaerts" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47112" value="Redzen Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42144" value="Grimspire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33010" value="SD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26001" value="Spiele-Offensive.de" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1938" />
+			<average value="7.97297" />
+			<bayesaverage value="6.53718" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1164" bayesaverage="6.53718" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="194" bayesaverage="6.86155" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="603" bayesaverage="6.7153" />
+												</ranks>
+
+			<stddev value="1.65152" />
+			<median value="0" />
+			<owned value="3620" />
+			<trading value="36" />
+			<wanting value="165" />
+			<wishing value="1249" />
+			<numcomments value="449" />
+			<numweights value="148" />
+			<averageweight value="3.7973" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
