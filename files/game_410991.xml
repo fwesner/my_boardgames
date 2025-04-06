@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="410991">
+         <thumbnail>https://cf.geekdo-images.com/8SdHEMhje07oT9_AlqmGPg__thumb/img/5V_VoyrToqBy1qlMvHGB5p0m6kU=/fit-in/200x150/filters:strip_icc()/pic7963549.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/8SdHEMhje07oT9_AlqmGPg__original/img/KeL4ek0KJBQHkD-XgTyz3vXrxdE=/0x0/filters:format(jpeg)/pic7963549.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Looot" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Loooď" />
+			    				
+				<name type="alternate" sortindex="1" value="Looot: Il bottino dei vichinghi" />
+			    				
+				<name type="alternate" sortindex="1" value="Łuuupy" />
+			    				
+				<name type="alternate" sortindex="1" value="Neuland" />
+			    				
+				<name type="alternate" sortindex="1" value="Vlooot" />
+			    				
+				<name type="alternate" sortindex="1" value="峡湾领主" />
+			    				
+				<name type="alternate" sortindex="1" value="루우트" />
+			
+						               													<description>In Looot, you need to gather resources and capture buildings to develop your fjord. Fill your longships and complete your construction sites in order to rack up your victory points. Store up the most riches, and you&amp;rsquo;ll be crowned Jarl of the Vikings!&amp;#10;&amp;#10;Looot is a clever management game, using a double placement mechanism.&amp;#10;&amp;#10;On the Common board Players are Viking conquering a new territory, which allows you to recover resource/building/objective tiles.&amp;#10;&amp;#10;On your Personal board: You build your village with the tiles previously recovered from the Common board to unlock victory points.&amp;#10;&amp;#10;It will call upon your optimization logic, favoring the best combinations for this race for victory points.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="31">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="35" />
+						               				<minplaytime value="35" />
+						               				<maxplaytime value="35" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="9" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="6" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2846" value="Once-Per-Game Abilities" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5613" value="Theme: Vikings" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="421976" value="Looot: New Longships and Shields" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="34672" value="Charles Chevallier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3327" value="Laurent Escoffier" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="36093" value="Xavier Gueniffey Durin" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17159" value="Game Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42043" value="IUVI Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41167" value="Popcorn Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41423" value="TLAMA games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1108" />
+			<average value="7.07742" />
+			<bayesaverage value="6.02438" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2876" bayesaverage="6.02438" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="886" bayesaverage="6.15669" />
+												</ranks>
+
+			<stddev value="1.14952" />
+			<median value="0" />
+			<owned value="1460" />
+			<trading value="13" />
+			<wanting value="72" />
+			<wishing value="619" />
+			<numcomments value="189" />
+			<numweights value="42" />
+			<averageweight value="2.119" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
