@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="349606">
+         <thumbnail>https://cf.geekdo-images.com/UoNBbGOWnD9Eyv32AK0jYg__thumb/img/8rHEy7zfkdcaaH7RZLVnzaHtddo=/fit-in/200x150/filters:strip_icc()/pic6916384.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/UoNBbGOWnD9Eyv32AK0jYg__original/img/T8BebX8GDOG0QEHX4JY8Krh-5u0=/0x0/filters:format(jpeg)/pic6916384.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pagan: Beyond the Palisades" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Kacíř: Za palisádami" />
+			    				
+				<name type="alternate" sortindex="1" value="Pagan: Au-delà des Palissades" />
+			    				
+				<name type="alternate" sortindex="1" value="Pagan: Jenseits der Palisade" />
+			    				
+				<name type="alternate" sortindex="1" value="Pagan: Más Allá de las Empalizadas" />
+			    				
+				<name type="alternate" sortindex="1" value="Pagan: Oltre la Palizzata" />
+			    				
+				<name type="alternate" sortindex="1" value="Pagan: Za palisadą" />
+			    				
+				<name type="alternate" sortindex="1" value="Роанок: По ту сторону изгороди" />
+			    				
+				<name type="alternate" sortindex="1" value="Роанок: По ту сторону изгороди" />
+			
+						               													<description>Pagan: Beyond the Palisades is the first expansion for Pagan: Fate of Roanoke.&amp;#10;&amp;#10;Pagan is an asymmetrical card game for two players taking on the roles of Witch or Witch hunter. The Witch tries to carry out a ritual of renaturation before being exposed and eliminated by the Witch hunter. Nine villagers are under suspicion and only the Witch player knows who the real Witch is. Each turn, the players use their action pawns on active villagers to draw cards, play cards, gain influence and manage the Gloom. Moreover, the Witch can brew powerful potions, improve their familiar and cast enchantments and charms, while the Witch hunter enlists allies, claim strategic locations, and ruthlessly investigates the villagers.&amp;#10;&amp;#10;Beyond the Palisades introduces two new mechanics to Pagan: Gloom and Cleanse.&amp;#10;&amp;#10;    Gloom is a new resource that benefits the Witch player as long as it is in play. It symbolizes the Witch's symbiotic relationship with the lands. Gloom enters the game through the play of Gloom-cards and can be reduced or increased during a game. Some cards can even break the natural limits of the Gloom on the cards.&amp;#10;    With sufficient effort and focus, it is possible to cleanse the Gloom encroaching on the village. Cleansing a card is done by removing every last bit of Gloom. Once a card is cleansed it is discarded.&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="75" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="75" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3004" value="Deck Construction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="426670" value="Pagan: Behind the Veil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="400905" value="Pagan: Cards of the Ancestors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365105" value="Pagan: Close Encounters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="362910" value="Pagan: Kickstarter Exclusive Content" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="426676" value="Pagan: Through the Mist" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365102" value="Pagan: Trials of Old" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="426679" value="Pagan: Until Proven Guilty" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319910" value="Pagan: Fate of Roanoke" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="430773" value="Kacíř: Zkáza Roanoke – Inserty Herman Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="444460" value="Pagan: Fate of Roanoke – ChihuahuaPrint3D Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="405083" value="Pagan: Fate of Roanoke – Errata Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="414762" value="Pagan: Fate of Roanoke – Wooden Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367211" value="Pagan: Laserox Organizer" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="365107" value="Pagan: Mind Games" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="130220" value="Kasper Kjær Christiansen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="57818" value="Kåre Storgaard" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="117988" value="Maren Gutt" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42315" value="Wyrmgold GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30958" value="Capstone Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38574" value="Evrikus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29409" value="Super Meeple" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="260" />
+			<average value="8.02335" />
+			<bayesaverage value="5.74835" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.74835" />
+												</ranks>
+
+			<stddev value="1.4234" />
+			<median value="0" />
+			<owned value="3024" />
+			<trading value="21" />
+			<wanting value="20" />
+			<wishing value="91" />
+			<numcomments value="76" />
+			<numweights value="3" />
+			<averageweight value="3.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
