@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<items totalitems="360" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse" pubdate="Thu, 24 Jul 2025 04:07:20 +0000">
+<items totalitems="361" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse" pubdate="Thu, 24 Jul 2025 04:09:04 +0000">
 		<item objecttype="thing" objectid="371947" subtype="boardgame" collid="119342217">
 	<name sortindex="1">3 Ring Circus</name>
 		<yearpublished>2023</yearpublished>			<image>https://cf.geekdo-images.com/rlVMW44IxSdXg0mfbdOdOg__original/img/0dv_H-9NXnu7aKwbZD0T9cHTHyw=/0x0/filters:format(jpeg)/pic7819093.jpg</image>
@@ -1961,6 +1961,12 @@
 	<originalname>Aftermath</originalname>	<yearpublished>2020</yearpublished>			<image>https://cf.geekdo-images.com/DnBZrelPW0AtmuCzQZgbLg__original/img/nH23b8sytmpJ_sIyw7_lQNJJ4P0=/0x0/filters:format(png)/pic5054277.png</image>
 		<thumbnail>https://cf.geekdo-images.com/DnBZrelPW0AtmuCzQZgbLg__thumb/img/3nLax--1q_ek8Hlr-7uJHkEGddU=/fit-in/200x150/filters:strip_icc()/pic5054277.png</thumbnail>
 			<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2023-03-21 18:10:22" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="163068" subtype="boardgame" collid="134558212">
+	<name sortindex="1">Trickerion: Legends of Illusion</name>
+		<yearpublished>2015</yearpublished>			<image>https://cf.geekdo-images.com/9gob752VqEklQFV_gz16hw__original/img/ivQUea2qrHp2TDLM4i7gp1123vQ=/0x0/filters:format(png)/pic2585510.png</image>
+		<thumbnail>https://cf.geekdo-images.com/9gob752VqEklQFV_gz16hw__thumb/img/C2GPhkDu7fWK6L64MTOaYVRCgS4=/fit-in/200x150/filters:strip_icc()/pic2585510.png</thumbnail>
+			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2025-07-23 23:08:54" />
 	<numplays>0</numplays>							</item>
 		<item objecttype="thing" objectid="284083" subtype="boardgame" collid="104805686">
 	<name sortindex="5">La Tripulación: En busca del noveno planeta</name>
