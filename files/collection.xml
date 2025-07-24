@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<items totalitems="361" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse" pubdate="Thu, 24 Jul 2025 04:09:04 +0000">
+<items totalitems="360" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse" pubdate="Thu, 24 Jul 2025 04:11:57 +0000">
 		<item objecttype="thing" objectid="371947" subtype="boardgame" collid="119342217">
 	<name sortindex="1">3 Ring Circus</name>
 		<yearpublished>2023</yearpublished>			<image>https://cf.geekdo-images.com/rlVMW44IxSdXg0mfbdOdOg__original/img/0dv_H-9NXnu7aKwbZD0T9cHTHyw=/0x0/filters:format(jpeg)/pic7819093.jpg</image>
@@ -1739,12 +1739,6 @@
 		<yearpublished>2017</yearpublished>			<image>https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__original/img/9uLd9C3XAvInLCLhAoXqKVk56zs=/0x0/filters:format(jpeg)/pic7013651.jpg</image>
 		<thumbnail>https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__thumb/img/aUlIih2_R7P8IYKeyNl2heLQbu8=/fit-in/200x150/filters:strip_icc()/pic7013651.jpg</thumbnail>
 			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2025-06-08 21:58:59" />
-	<numplays>1</numplays>							</item>
-		<item objecttype="thing" objectid="162886" subtype="boardgame" collid="104804820">
-	<name sortindex="1">Spirit Island</name>
-		<yearpublished>2019</yearpublished>			<image>https://cf.geekdo-images.com/goh1SfvBOzP1qLX6UuLYEA__original/img/A5N8Q4nXxWkzWwuxOvADLZ2xBEw=/0x0/filters:format(png)/pic4820500.png</image>
-		<thumbnail>https://cf.geekdo-images.com/goh1SfvBOzP1qLX6UuLYEA__thumb/img/0g8wwFxcg9sitcKeFW8mPFJuvHg=/fit-in/200x150/filters:strip_icc()/pic4820500.png</thumbnail>
-			<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2025-06-08 21:44:17" />
 	<numplays>1</numplays>							</item>
 		<item objecttype="thing" objectid="193065" subtype="boardgame" collid="133108051">
 	<name sortindex="1">Spirit Island: Branch &amp; Claw</name>
