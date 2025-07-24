@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="369898">
+         <thumbnail>https://cf.geekdo-images.com/R0MpBM4U-lee5L2VEt0qFg__thumb/img/s0wfSGipBgWBfvzIaU8kDA59SVE=/fit-in/200x150/filters:strip_icc()/pic7064573.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/R0MpBM4U-lee5L2VEt0qFg__original/img/c8OuY_1l2K4E8iNzQCbb0t_sAbE=/0x0/filters:format(jpeg)/pic7064573.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pollen" />
+			
+						                           
+						               													<description>Create a lush garden of beautiful blooms in order to attract helpful pollinators to their favorite flowers in this abstract tile laying game.&amp;#10;&amp;#10;Plant Flowers - Place a garden card next to at least one pollinator token&amp;#10;&amp;#10;Attract Pollinators - Form a line with a garden card in another player's color, draw a pollinator token and place it next to the newly created line!&amp;#10;&amp;#10;Pollinate Flowers - When a pollinator token is encircled by flowers, it's attracted to that player's garden! Add up the values on flower cards that match the pollinator.&amp;#10;&amp;#10;Become the Best Garden - When any type of scoring token runs out, all pollinator tokens have been placed, or all players have run out of garden cards, the game ends and it's time to score.&amp;#10;&amp;#10;&amp;mdash;description from publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="11" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="4" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62079" value="Animals: Insects" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6393" value="Theme: Flowers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48865" value="Theme: Gardening" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="383702" value="Pollen: Glass Insect Beads" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="35634" value="Samurai: The Card Game" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71164" value="Beth Sobel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53065" value="Allplay" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="608" />
+			<average value="7.00299" />
+			<bayesaverage value="5.81698" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4422" bayesaverage="5.81698" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1790" bayesaverage="5.89878" />
+												</ranks>
+
+			<stddev value="1.2525" />
+			<median value="0" />
+			<owned value="1468" />
+			<trading value="26" />
+			<wanting value="94" />
+			<wishing value="484" />
+			<numcomments value="176" />
+			<numweights value="18" />
+			<averageweight value="2.0556" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

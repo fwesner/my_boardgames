@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="367966">
+         <thumbnail>https://cf.geekdo-images.com/wIbevITv9W79ELP8rEZoKA__thumb/img/7_DqsUgdrpbeLfkA2ko8bXhgpGw=/fit-in/200x150/filters:strip_icc()/pic6996584.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/wIbevITv9W79ELP8rEZoKA__original/img/41fYEG_IYb9ECcCO24Dk4dZUNT0=/0x0/filters:format(jpeg)/pic6996584.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Endeavor: Deep Sea" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Endeavor: Abissi Marini" />
+			    				
+				<name type="alternate" sortindex="1" value="Endeavor: Die Tiefsee" />
+			    				
+				<name type="alternate" sortindex="1" value="Endeavor: Diepzee" />
+			    				
+				<name type="alternate" sortindex="1" value="Endeavor: Eaux profondes" />
+			    				
+				<name type="alternate" sortindex="1" value="Endeavor: Hlubiny moří" />
+			    				
+				<name type="alternate" sortindex="1" value="Endeavor: Mar Profundo" />
+			    				
+				<name type="alternate" sortindex="1" value="Экспедиция: Морские глубины" />
+			    				
+				<name type="alternate" sortindex="1" value="エンデバー：ディープ・シー" />
+			    				
+				<name type="alternate" sortindex="1" value="奋进号：深海" />
+			
+						               													<description>Plunge into the modern era, where our planet's vast interconnected ocean scape is one of the last frontiers to discover and explore. Experience a deep new ever-changing adventure in this followup to the smash hit Endeavor: Age of Sail!&amp;#10;&amp;#10;In Endeavor: Deep Sea, you head an independent research institute with the goal of developing sustainable projects and preserving the fragile balance of marine life. Throughout the game, you&amp;rsquo;ll recruit field experts and use their abilities to explore new locations, research dive sites, publish critical ecological papers, and launch conservation efforts.&amp;#10;&amp;#10;Expand your expertise, develop your team, and learn as much as possible about the sea. The action your institute takes now, could mean a healthy ocean and a sustainable future for the planet.&amp;#10;&amp;#10;Endeavor: Deep Sea is designed by the same creative team behind Endeavor: Age of Sail and Endeavor. This edition is set in a new era of nautical discovery, but uses streamlined rules which will be familiar to fans of the original game.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="214">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="79" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="111" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="108" />
+					<result value="Recommended" numvotes="49" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="62" />
+					<result value="Recommended" numvotes="69" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="25" />
+					<result value="Not Recommended" numvotes="74" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="39">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="12" />
+					<result value="12" numvotes="21" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="14">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="9" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2839" value="Action Retrieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2959" value="Map Addition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2849" value="Tech Trees / Tech Tracks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66292" value="Crowdfunding: Gamefound" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="104591" value="Game: Endeavor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="110336" value="Game: Endeavor Deep Sea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63525" value="Occupation: Researcher / Scientist" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59442" value="Theme: Biology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68335" value="Theme: Ecology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76250" value="Theme: Environmental Protection / Degradation / Pollution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66167" value="Theme: Science" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50007" value="Theme: Submarines" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66105" value="Theme: Under the Sea" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="442632" value="Endeavor: Deep Sea – Deluxe Upgrade Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="432730" value="Endeavor: Deep Sea – Orca Reintroduction, Underwave Academy, and Robot Wanderer Mini Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="446892" value="Endeavor: Deep Sea – Uncharted Waters" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="418470" value="Endeavor: Deep Sea Deluxe Edition" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="33160" value="Endeavor" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="233398" value="Endeavor: Age of Sail" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3526" value="Carl de Visser" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9733" value="Jarratt Gray" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="135497" value="Fahed Alrajil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="156156" value="Maruša Gorjup" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36961" value="Burnt Island Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33845" value="Grand Gamers Guild" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36754" value="Board Game Circus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34522" value="CrowD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31815" value="Czacha Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="54949" value="DSV Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29895" value="Frosted Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50478" value="Ludofun" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45510" value="Rawstone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29409" value="Super Meeple" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41423" value="TLAMA games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5458" />
+			<average value="8.23215" />
+			<bayesaverage value="7.38849" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="180" bayesaverage="7.38849" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="101" bayesaverage="7.55273" />
+												</ranks>
+
+			<stddev value="1.11015" />
+			<median value="0" />
+			<owned value="8970" />
+			<trading value="23" />
+			<wanting value="567" />
+			<wishing value="4558" />
+			<numcomments value="916" />
+			<numweights value="270" />
+			<averageweight value="2.9074" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
