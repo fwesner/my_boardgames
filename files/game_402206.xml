@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="402206">
+         <thumbnail>https://cf.geekdo-images.com/u9Wzaasbs1vfuTZb6IwD_A__thumb/img/rDWl7AWpF7sMJq2Ob_wiW3UQ630=/fit-in/200x150/filters:strip_icc()/pic8863250.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/u9Wzaasbs1vfuTZb6IwD_A__original/img/_lQ_8mYOSDBQPvxkyPyT-6mT1NQ=/0x0/filters:format(jpeg)/pic8863250.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dioses!" />
+			
+						                           
+						               													<description>Dioses! is a card game in which players become oracles by combining different mythologies and gods to assemble the best ensemble and achieve victory. To do this, players will draw cards from a deck and place them in their personal playing area, trying to meet their requirements to earn the maximum number of points.&amp;#10;&amp;#10;&amp;#10;     It can be explained in less than 5 minutes.&amp;#10;     The illustrations are set in the DLH universe.&amp;#10;     Each game is completely different.&amp;#10;&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–6 players" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="433986" value="Dioses!: ¡Aún más Divinos!" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="108280" value="David Amorin" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="43054" value="Smart Troll Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="56688" value="TOY games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="296" />
+			<average value="7.48273" />
+			<bayesaverage value="5.69075" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6218" bayesaverage="5.69075" />
+												</ranks>
+
+			<stddev value="1.36563" />
+			<median value="0" />
+			<owned value="876" />
+			<trading value="5" />
+			<wanting value="2" />
+			<wishing value="59" />
+			<numcomments value="37" />
+			<numweights value="9" />
+			<averageweight value="1.1111" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

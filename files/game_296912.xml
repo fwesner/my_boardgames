@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="296912">
+         <thumbnail>https://cf.geekdo-images.com/hAsqLdANmtExR5Zi41v94Q__thumb/img/YqmIsRVLpQqM-r5i1rsN91Q6fzg=/fit-in/200x150/filters:strip_icc()/pic5241325.png</thumbnail>
+      <image>https://cf.geekdo-images.com/hAsqLdANmtExR5Zi41v94Q__original/img/YSzUnMqcnTg-mSk8VEnBQaRRmJU=/0x0/filters:format(png)/pic5241325.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Fort" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Erőd" />
+			    				
+				<name type="alternate" sortindex="1" value="Форт" />
+			    				
+				<name type="alternate" sortindex="1" value="捣蛋王国" />
+			
+						               													<description>Fort is a 2-4 player card game about building forts and following friends.&amp;#10;&amp;#10;In Fort, you're a kid! And like many kids, you want to grow your circle of friends, collect pizza and toys, and build the coolest fort.&amp;#10;&amp;#10;By doing this cool stuff, you'll score victory points, and at the end of the game, the player with the most victory points wins! Your cards not only let you take actions on your own turn, but also let you follow the other players' actions on their turns. Will you devote yourself to your own posse, or copy what the other kids are doing?&amp;#10;&amp;#10;But be careful as your carefully constructed deck might start losing cards if you don't actually use them. After all, if you don't play with your friends, why should they hang out with you anymore?&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="200">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="119" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="33" />
+					<result value="Recommended" numvotes="123" />
+					<result value="Not Recommended" numvotes="28" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="108" />
+					<result value="Recommended" numvotes="49" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="49" />
+					<result value="Recommended" numvotes="93" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="104" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="40" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="40" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="43">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="23" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="0" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="11" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2843" value="Follow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2828" value="Turn Order: Progressive" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="341066" value="Fort: Cats &amp; Dogs Expansion" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="419428" value="Fort: Inserty Herman Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="249106" value="SPQF" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="50231" value="Grant Rodiek" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65224" value="Kyle Ferrin" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25624" value="Leder Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30571" value="2Tomatoes Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34522" value="CrowD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33710" value="Fox in the Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32591" value="MeepleBR" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37959" value="MS Edizioni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="11132" />
+			<average value="7.07664" />
+			<bayesaverage value="6.77366" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="772" bayesaverage="6.77366" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="515" bayesaverage="6.80961" />
+												</ranks>
+
+			<stddev value="1.25562" />
+			<median value="0" />
+			<owned value="21003" />
+			<trading value="636" />
+			<wanting value="269" />
+			<wishing value="2755" />
+			<numcomments value="1791" />
+			<numweights value="270" />
+			<averageweight value="2.437" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

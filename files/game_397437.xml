@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="397437">
+         <thumbnail>https://cf.geekdo-images.com/eik1LzCdYPVGVi6xN0zL1A__thumb/img/OKU-DXJxBjxQm0P8flqyPsdmv3Y=/fit-in/200x150/filters:strip_icc()/pic8241114.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/eik1LzCdYPVGVi6xN0zL1A__original/img/Ty3WqyROniydA9MinifTXjpgOjg=/0x0/filters:format(jpeg)/pic8241114.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Barrage: The Colorado Connection" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Barrage: La Conexión Colorado" />
+			    				
+				<name type="alternate" sortindex="1" value="Barrage: La Connection Colorado" />
+			    				
+				<name type="alternate" sortindex="1" value="Barrage: Połączenie Kolorado" />
+			    				
+				<name type="alternate" sortindex="1" value="Wasserkraft: Die Colorado Connection" />
+			    				
+				<name type="alternate" sortindex="1" value="Плотина: Мосты Колорадо" />
+			
+						               													<description>The Barrage: The Colorado Connection expansion includes a specific map set on the Colorado area providing a new mechanic: the Bridges.&amp;#10;&amp;#10;The Colorado Map includes some new elements: the Construction Sites for Bridges and the Areas for Productive Settlements.&amp;#10;&amp;#10;The rivers represented on the Map flow along deep canyons creating clear physical separations between the delimited regions: the presence of bridges built on the crest of the Dams will allow an easier connection between the Productive Settlements of each region; on the other hand, a Dam with a Bridge cannot be further elevated for the rest of the game. Choose carefully when to build them!&amp;#10;&amp;#10;The Productive Settlements are new action spaces (4 in the Mountains Area, 3 in the Hills Area, 3 in the Plains Area) that can be activated by placing the required number of Engineers. Activating a Productive Settlement has a cost in Credits that depends on the presence or absence of Bridges along the route from the Construction Site (located on the left edge in the Mountains and Plains Areas and right in the Hills Area) to the Productive Settlement you intend to activate.&amp;#10;&amp;#10;You need the base game Barrage to be able to use it. You can also use the Barrage: Leeghwater Project expansion in combination with this expansion.&amp;#10;&amp;#10;&amp;mdash;description from the rulebook&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2839" value="Action Retrieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2911" value="Ownership" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2826" value="Turn Order: Stat-Based" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57497" value="Game: Barrage" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="251247" value="Barrage" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="444345" value="Barrage: ChihuahuaPrint3D Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="442104" value="Barrage: Inserty Herman Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="402795" value="Barrage: Moedas &amp; Co. Metal Coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="426775" value="Barrage: SL-3D Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="108836" value="Tommaso Battista" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="35418" value="Simone Luciani" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34522" value="CrowD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22380" value="Feuerland Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5380" value="Intrafin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="187" />
+			<average value="8.22261" />
+			<bayesaverage value="5.70528" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.70528" />
+												</ranks>
+
+			<stddev value="1.51847" />
+			<median value="0" />
+			<owned value="2590" />
+			<trading value="8" />
+			<wanting value="24" />
+			<wishing value="98" />
+			<numcomments value="109" />
+			<numweights value="6" />
+			<averageweight value="3.8333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

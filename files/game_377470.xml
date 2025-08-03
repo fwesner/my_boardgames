@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="377470">
+         <thumbnail>https://cf.geekdo-images.com/WdYRHQ_ILHTV_ECMGF27Gw__thumb/img/y8Hlu0-CQDQAO6d6zM8YJ3dVevI=/fit-in/200x150/filters:strip_icc()/pic7267575.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/WdYRHQ_ILHTV_ECMGF27Gw__original/img/i9rMBmWzjVl2Aep-xUqWg4u0ADA=/0x0/filters:format(jpeg)/pic7267575.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Sail" />
+			
+						                               				
+				<name type="alternate" sortindex="3" value="A nagy kékség: Ketten a végzet tengerén" />
+			    				
+				<name type="alternate" sortindex="1" value="セイル" />
+			    				
+				<name type="alternate" sortindex="1" value="深海迷途" />
+			    				
+				<name type="alternate" sortindex="1" value="항해" />
+			
+						               													<description>Strap up your piratical boots, and navigate your ship through turbulent waters in Sail, a co-operative trick-taking game for two players. Reach the end of this dangerous deep end, and avoid taking damage from the Kraken to win the game together...or your crew will be sleeping with the fish!&amp;#10;&amp;#10;Before each round begins, players exchange cards, then play a series of tricks. Different game actions will be triggered depending on who wins each trick in combination with the unique character skills. However, the crashing sea water and the roaring Kraken make for a deafening situation, and players are unable to communicate about tactics and card information from the moment cards are dealt to the end of the action phase.&amp;#10;&amp;#10;Players win the game as a team if they sail their ship into the final token before the Kraken reaches the Death tile or the Kraken deck is exhausted.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="32">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="32" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="11" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1090" value="Pirates" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17527" value="Animals: Octopuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79006" value="Components:  Meeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="101433" value="Components: Meeples (Monster)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5615" value="Creatures: Monsters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="107125" value="Series: Small Box Big Game (Allplay)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79359" value="Series: Tricky Card Games (Allplay)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="74823" value="Theme: Pirates" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="393101" value="Sail: Seafarers Expansion" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="397906" value="Sail: Hazards Upgrade" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="438975" value="Sail Legacy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="351851" value="HAMELN CAVE" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="149920" value="Akiyama Koryo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="149921" value="Kozu Yusei" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72369" value="Weberson Santiago" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53065" value="Allplay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25074" value="BoardM Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3300" />
+			<average value="7.32662" />
+			<bayesaverage value="6.58028" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1101" bayesaverage="6.58028" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="274" bayesaverage="6.7347" />
+												</ranks>
+
+			<stddev value="1.18757" />
+			<median value="0" />
+			<owned value="9052" />
+			<trading value="109" />
+			<wanting value="270" />
+			<wishing value="2528" />
+			<numcomments value="703" />
+			<numweights value="60" />
+			<averageweight value="2.2333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
