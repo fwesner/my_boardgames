@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="329593">
+         <thumbnail>https://cf.geekdo-images.com/0HEbb7gmRDfg-8SUMBjsRg__small/img/dbUIfr-Y75szgnkg4qw8avZUrn4=/fit-in/200x150/filters:strip_icc()/pic5941071.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/0HEbb7gmRDfg-8SUMBjsRg__original/img/duZI8DiOjs84DyjbIG7DQqOQCPA=/0x0/filters:format(jpeg)/pic5941071.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Settlement" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Форпост" />
+			
+						               													<description>You are the leader of settlers who have discovered new lands. Using powerful artifacts, you will explore terrains, hunt monsters, construct buildings, and create outposts. Collect diamonds and gold and welcome mighty heroes to make your settlement the most famous one!&amp;#10;&amp;#10;In more detail, in Settlement you need to effectively manage settlers and resources. The goal of the game is to score as many victory points as possible by the end of the last round. Each round, players take turns in clockwise order, beginning with the starting player. On your turn, you can invite a hero or use one of your settlers to take one of these seven actions:&amp;#10;&amp;#10;1. Construct a building &amp;#10;2. Explore a terrain &amp;#10;3. Hunt a monster&amp;#10;4. Build an outpost&amp;#10;5. Activate a region&amp;#10;6. Activate a street&amp;#10;7. Activate an outpost&amp;#10;&amp;#10;On your turn, if you have the required resources, you may spend them to invite a hero in your settlement. Heroes are useful because they bring you victory points. Sometimes, a hero's score depends on your buildings, terrains, or outposts; some heroes also provide you with extra settlers. You may pass immediately after playing your turn if you're ready to end the current round. If you cannot do anything on your turn, then you must pass.  Take a new artifact among the available ones, then return your previous artifact. Once all players have passed, the round ends.&amp;#10;&amp;#10;At the end of the sixth round, the game ends, and you sum points from your hero cards and buildings. The player with the most victory points wins, and their settlement becomes the main outpost of the land!&amp;#10;&amp;#10;&amp;mdash;description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="21">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="96" value="No necessary in-game text" numvotes="6" />
+					<result level="97" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="98" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="99" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="100" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2830" value="Turn Order: Pass Order" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="101433" value="Components: Meeples (Monster)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="49695" value="Oleksandr Nevskiy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="81718" value="Dmytro Kryvonos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="124355" value="M81 Studio" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17179" value="IGAMES" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47476" value="Geronimo Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="669" />
+			<average value="7.06281" />
+			<bayesaverage value="5.83842" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4280" bayesaverage="5.83842" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1754" bayesaverage="5.93206" />
+												</ranks>
+
+			<stddev value="1.30449" />
+			<median value="0" />
+			<owned value="1398" />
+			<trading value="43" />
+			<wanting value="58" />
+			<wishing value="453" />
+			<numcomments value="150" />
+			<numweights value="24" />
+			<averageweight value="2.1667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
