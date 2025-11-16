@@ -48,40 +48,46 @@ function load_games_info(gameIDs) {
             players_votes = new Object();
             minPlayers= parseInt(xml.getElementsByTagName("minplayers")[0].getAttribute("value"));
             maxPlayers= parseInt(xml.getElementsByTagName("maxplayers")[0].getAttribute("value"));
-            
-            var suggested_numplayers_element = xml.getElementsByTagName("suggested_numplayers")[0];
-            var suggested_numplayers = suggested_numplayers_element ? suggested_numplayers_element.children : [];
-            for(var p = 0; p < suggested_numplayers.length; p++) {
-                var suggestion = "Not Playable";
-                var numplayers = parseInt(suggested_numplayers[p].getAttribute("numplayers"));
-                if (numplayers < minPlayers) {
-                    suggestion = "Not Playable";
-                } else { 
-                    if (numplayers <= maxPlayers) {
-                        best_fit = Array.from(suggested_numplayers[p].children).reduce(calc_suggested_numplayers);
-                        suggestion = best_fit.getAttribute("value"); 
-                    }
-                    if (numplayers == players) {
-                        suggestion = best_fit.getAttribute("value"); 
+
+            const polls = xml.getElementsByTagName('poll');
+            for (const poll of polls) {
+                if (poll.getAttribute("name") === "suggested_numplayers") {
+                    let suggested_numplayers = poll.children
+                    for(var p = 0; p < suggested_numplayers.length; p++) {
+                        var suggestion = "Not Playable";
+                        var numplayers = parseInt(suggested_numplayers[p].getAttribute("numplayers"));
+                        if (numplayers < minPlayers) {
+                            suggestion = "Not Playable";
+                        } else { 
+                            if (numplayers <= maxPlayers) {
+                                best_fit = Array.from(suggested_numplayers[p].children).reduce(calc_suggested_numplayers);
+                                suggestion = best_fit.getAttribute("value"); 
+                            }
+                            if (numplayers == players) {
+                                suggestion = best_fit.getAttribute("value"); 
+                            }
+                        }
+                        players_votes[numplayers] = suggestion;
+                        if (numplayers >= maxPlayers) {
+                            break;
+                        }
+                        
                     }
                 }
-                players_votes[numplayers] = suggestion;
-                if (numplayers >= maxPlayers) {
-                    break;
+                if (poll.getAttribute("name") === "language_dependence") {
+                    language_dependence = poll.children[0].children
+                    language_dep = "Error";
+                    max_value = 0;
+                    for(var l = 0; l < language_dependence.length; l++) {
+                        if (parseInt(language_dependence[l].getAttribute("numvotes")) >= max_value) {
+                            max_value = parseInt(language_dependence[l].getAttribute("numvotes"));
+                            language_dep = language_dependence[l].getAttribute("value");
+                        }
+                    }
                 }
-                
             }
 
-            var language_dependence_element = xml.getElementsByTagName("language_dependence")[0];
-            var language_dependence = language_dependence_element ?language_dependence_element.children : [];
-            language_dep = "Error";
-            max_value = 0;
-            for(var l = 0; l < language_dependence.length; l++) {
-                if (parseInt(language_dependence[l].getAttribute("numvotes")) >= max_value) {
-                    max_value = parseInt(language_dependence[l].getAttribute("numvotes"));
-                    language_dep = language_dependence[l].getAttribute("value");
-                }
-            }
+            
 
             const game = {
                 gameID: xml.getElementsByTagName("item")[0].getAttribute("id"),
