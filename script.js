@@ -72,13 +72,14 @@ function load_games_info(gameIDs) {
                 
             }
 
-            tmp = xml.getElementsByName("language_dependence")[0].children[0].children;
+            var language_dependence_element = xml.getElementsByTagName("language_dependence")[0];
+            var language_dependence = language_dependence_element ?language_dependence_element.children : [];
             language_dep = "Error";
             max_value = 0;
-            for(var l = 0; l < tmp.length; l++) {
-                if (parseInt(tmp[l].getAttribute("numvotes")) >= max_value) {
-                    max_value = parseInt(tmp[l].getAttribute("numvotes"));
-                    language_dep = tmp[l].getAttribute("value");
+            for(var l = 0; l < language_dependence.length; l++) {
+                if (parseInt(language_dependence[l].getAttribute("numvotes")) >= max_value) {
+                    max_value = parseInt(language_dependence[l].getAttribute("numvotes"));
+                    language_dep = language_dependence[l].getAttribute("value");
                 }
             }
 
