@@ -38,7 +38,7 @@ function load_games_info(gameIDs) {
 
         const own = gameIDs[i]["own"];
         const wishlist = gameIDs[i]["wishlist"];
-        const promise = fetch("https://raw.githubusercontent.com/fwesner/my_boardgames/master/files/game_"+gameIDs[i]["gameID"]+".xml")
+        const promise = fetch("https://raw.githubusercontent.com/fwesner/my_boardgames/master/files/data/game_"+gameIDs[i]["gameID"]+".xml")
         .then(response => response.text())
         .then((data) => {
 
@@ -49,7 +49,8 @@ function load_games_info(gameIDs) {
             minPlayers= parseInt(xml.getElementsByTagName("minplayers")[0].getAttribute("value"));
             maxPlayers= parseInt(xml.getElementsByTagName("maxplayers")[0].getAttribute("value"));
             
-            var suggested_numplayers = xml.getElementsByName("suggested_numplayers")[0].children;
+            var suggested_numplayers_element = xml.getElementsByTagName("suggested_numplayers")[0];
+            var suggested_numplayers = suggested_numplayers_element ? suggested_numplayers_element.children : [];
             for(var p = 0; p < suggested_numplayers.length; p++) {
                 var suggestion = "Not Playable";
                 var numplayers = parseInt(suggested_numplayers[p].getAttribute("numplayers"));

@@ -37,7 +37,7 @@ with open(archivo_salida_collection, encoding="utf8") as archivo:
 
 for id in ids:
     url = "https://boardgamegeek.com/xmlapi2/thing?id="+id+"&stats=1"
-    archivo_salida_game = "files\\game_"+id+".xml"
+    archivo_salida_game = "files\\data\\game_"+id+".xml"
     if os.path.exists(archivo_salida_game):
         print(f"El archivo '{archivo_salida_game}' ya existe")
         continue
